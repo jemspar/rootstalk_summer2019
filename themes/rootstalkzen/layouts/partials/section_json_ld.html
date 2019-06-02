@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url" : {{ .Permalink }},
+    "name": "{{ .Title }}",
+    {{ with $.Param "description" -}}
+    "description": "{{ . }}",
+    {{ end -}}
+    {{ with $.Param "image" -}}
+    "image" : {{ . | absURL }},
+    {{ end -}}
+    {{ with $.Param "author" -}}
+    "author": {
+      "@type": "Person",
+      "name": "{{ . }}"
+    },
+    {{ end -}}
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ .Site.BaseURL }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "url": {{ .Site.BaseURL }}
+    }
+  }
+</script>

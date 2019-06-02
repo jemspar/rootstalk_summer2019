@@ -1,0 +1,4 @@
+baseURL = "https://jeremysparagon.com/rootstalk_dev/"
+languageCode = "en-us"
+title = "Rootstalk"
+theme = "rootstalkzen"

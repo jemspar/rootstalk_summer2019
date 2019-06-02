@@ -1,0 +1,49 @@
+// sass-lint:disable no-css-comments, no-color-hex, no-color-literals
+
+// Site custom styles
+
+#current_issue_img::before {
+  content: "";
+  background-image: url('/images/VolV_Issue1_cover.jpg');
+  filter: blur(5px);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 25vh;
+    display: block;
+}
+
+#current_issue_img {
+  overflow: auto;
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#current_issue_text {
+  width: auto;
+  text-align: center;
+  font-size: 30px;
+  position: fixed;
+  text-shadow: 1px 3px 3px white,-1px -1px 4px #ffff99;
+}
+
+#current_issue_text p.issue {
+  font-family: $garamond;
+  font-size: 30px;
+}
+
+#current_issue_text p.season {
+  font-family: $garamond;
+  font-size: 25px;
+  font-style: italic;
+}
+
+h3.articletype {
+  font-size: 1.25em;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+}
