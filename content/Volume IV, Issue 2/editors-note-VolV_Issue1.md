@@ -4,7 +4,7 @@ author: "Mark Baechtel"
 articletype: "Editor's Note"
 headerimage: "meskwaki_powow.jpg"
 date: 2019-05-29T21:08:24Z
-draft: true
+draft: false
 ---
 
 Back  in  the  late  50s  and  early  60s,  there  was  a  cop show called "Naked City" on network TV. Each  episode  always  ended  with  a  narrator's  voice  in-toning the same line: "There are eight million stories in the naked city. This has been one of them."
