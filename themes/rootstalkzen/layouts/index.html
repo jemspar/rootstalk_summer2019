@@ -15,6 +15,14 @@
 <article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
 <div class="content">
 {{ .Content }}
+
+<!-- featured posts -->
+{{ range .Site.Taxonomies.tags.featured }}
+
+<h1 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h1>
+
+{{ end }}
+
 </div>
 </article>
 </main>

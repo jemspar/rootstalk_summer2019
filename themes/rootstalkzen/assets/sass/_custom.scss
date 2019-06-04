@@ -47,3 +47,26 @@ h3.articletype {
   text-transform: uppercase;
   letter-spacing: .5em;
 }
+
+#download_link_container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-family: $futura;
+  font-size: 20px;
+  padding: .5em .5em .5em .5em;
+}
+
+.download_link {
+  width: auto;
+}
+
+.download_link a {
+  font-style: italic;
+  color: black;
+  text-decoration: none;
+}
+
+.download_link a:hover {
+  color: gray;
+}
