@@ -5,6 +5,7 @@ articletype: "Essay"
 headerimage: "arrowheads.jpg"
 date: 2019-05-30T21:57:33-07:00
 draft: false
+tags: ["featured"]
 ---
 
 I’m an archaeologist, so I get calls occasionally: someone has an artifact they want me to look at. Usually it’s an ‘arrowhead’ they have just found, or a collection made over the years or inherited from granddad. I don’t encourage people to collect artifacts without documenting location, because this removes them from the site and diminishes the chances that they can tell us anything about past people. Nevertheless, I try not to sound too self-righteous about archaeological ethics when I talk to a friendly member of the public. I always enjoy looking at someone’s artifacts, even if I secretly lament the loss of knowledge when objects are removed from their original contexts.  I can usually make a friend and tell them something they find interesting. “See the beveled edge on this one? That means it was probably resharpened---some of these big arrowheads were actually spear and knife points.” And so on. Archaeologists need to talk to the public, not only because support for archaeology ultimately comes from them, but because many great archaeological finds were made by the farmer, the construction worker, or the curious kid who happened on something unusual and told “the authorities.”
