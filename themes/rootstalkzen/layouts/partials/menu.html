@@ -13,5 +13,8 @@
 {{ range $.Site.Home.Sections -}}
 <li><a class="{{ if eq $currentSection .Section }}active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 {{ end -}}
+{{ range .Site.Menus.main }}
+<li><a href="{{ .URL }}" title="{{ .Title }}"> {{- .Name -}} </a></li>
+{{ end }}
 </ul>
 </nav>
