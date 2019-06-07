@@ -1,4 +1,5 @@
 ---
 title: "Volume II, Issue 1"
-weight: "2"
+description: "Fall 2015"
+issueIndex: "2"
 ---

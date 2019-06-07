@@ -2,4 +2,4 @@
 title: "Past Issues"
 ---
 
-{{< listsubsections >}}
+{{< listpastissues >}}

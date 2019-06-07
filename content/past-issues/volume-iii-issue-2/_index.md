@@ -1,4 +1,5 @@
 ---
 title: "Volume III, Issue 2"
-weight: "5"
+description: "Spring 2017"
+issueIndex: "5"
 ---

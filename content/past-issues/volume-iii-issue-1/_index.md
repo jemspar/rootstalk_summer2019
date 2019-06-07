@@ -1,4 +1,5 @@
 ---
 title: "Volume III, Issue 1"
-weight: "4"
+description: "Fall 2016"
+issueIndex: "4"
 ---

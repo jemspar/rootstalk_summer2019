@@ -1,4 +1,5 @@
 ---
 title: "Volume IV, Issue 2"
-weight: "6"
+description: "Spring 2018"
+issueIndex: "7"
 ---

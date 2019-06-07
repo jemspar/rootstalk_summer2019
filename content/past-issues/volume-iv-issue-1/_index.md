@@ -1,4 +1,5 @@
 ---
 title: "Volume IV, Issue 1"
-weight: "4"
+description: "Fall 2017"
+issueIndex: "6"
 ---
