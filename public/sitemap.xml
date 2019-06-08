@@ -3,29 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://static.rootstalk-20190530.docksal/posts/</loc>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/about/</loc>
+    <lastmod>2019-06-04T21:53:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/</loc>
+    <lastmod>2019-06-04T21:53:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/tags/</loc>
     <lastmod>2019-05-30T21:57:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://static.rootstalk-20190530.docksal/</loc>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iv-issue-2/</loc>
     <lastmod>2019-05-30T21:57:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://static.rootstalk-20190530.docksal/posts/worthless-rocks/</loc>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/volume-v-issue-1/</loc>
     <lastmod>2019-05-30T21:57:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://static.rootstalk-20190530.docksal/categories/</loc>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iv-issue-2/worthless-rocks/</loc>
+    <lastmod>2019-05-30T21:57:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/volume-v-issue-1/worthless-rocks/</loc>
+    <lastmod>2019-05-30T21:57:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/tags/featured/</loc>
+    <lastmod>2019-05-30T21:57:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://static.rootstalk-20190530.docksal/tags/</loc>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iv-issue-2/editors-note-voliv_issue2/</loc>
+    <lastmod>2019-05-29T21:08:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/volume-v-issue-1/editors-note-volv_issue1/</loc>
+    <lastmod>2019-05-29T21:08:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iv-issue-1/test/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-i-issue-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-ii-issue-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-ii-issue-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iii-issue-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iii-issue-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/past-issues/volume-iv-issue-1/</loc>
   </url>
   
 </urlset>

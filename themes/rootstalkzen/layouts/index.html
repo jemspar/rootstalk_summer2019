@@ -16,15 +16,20 @@
 <div class="content">
 {{ .Content }}
 
-<h2>Featured Posts</h2>
-
 <!-- featured posts -->
-{{ range .Site.Taxonomies.tags.featured }}
+<h2>Featured Articles</h2>
+<div id="featured_container">
 
-<h1 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h1>
-<a href="{{ .Page.Permalink }}"> <img width="100%" height="25%" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
+  {{ range .Site.Taxonomies.tags.featured }}
+  <div class="featured_article">
+    <a href="{{ .Page.Permalink }}"> <img width="100%" height="25%" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
+    <h3 class="articletype" style="font-size: .75em">{{ .Page.Params.articletype }}</h3>
+    <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h1>
+    <p>by {{ .Params.author }}</p>
+  </div>
+  {{ end }}
 
-{{ end }}
+</div>
 
 </div>
 </article>

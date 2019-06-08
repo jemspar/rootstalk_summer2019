@@ -28,16 +28,18 @@
   text-align: center;
   font-size: 30px;
   position: absolute;
-  text-shadow: 1px 3px 3px white,-1px -1px 4px #ffff99;
+  text-shadow: 1px 3px 3px black,-1px -1px 4px #21330d;
+  color: white;
 }
 
 #current_issue_text p.issue {
-  font-family: $garamond;
-  font-size: 30px;
+  font-family: $cormorant;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 
 #current_issue_text p.season {
-  font-family: $garamond;
+  font-family: $cormorant;
   font-size: 25px;
   font-style: italic;
 }
@@ -69,4 +71,16 @@ h3.articletype {
 
 .download_link a:hover {
   color: gray;
+}
+
+#featured_container {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: space-between;
+}
+
+.featured_article {
+  flex-basis: 30%;
+  height: auto;
 }

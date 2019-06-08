@@ -1,4 +1,5 @@
-baseURL = "https://master.d2qwh0g14aq598.amplifyapp.com/"
+baseURL = "http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
+currentIssue = "volume-v-issue-1"
