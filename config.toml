@@ -3,3 +3,24 @@ languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
 currentIssue = "volume-v-issue-1"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "volume-v-issue-1"
+    name = "Current Issue"
+    title = "Volume V, Issue 1"
+    url = "/volume-v-issue-1/"
+    weight = "1"
+
+  [[menu.main]]
+    identifier = "past-issues"
+    name = "Past Issues"
+    url = "/past-issues/"
+    weight = "2"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = "3"
