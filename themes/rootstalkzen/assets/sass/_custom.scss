@@ -33,13 +33,13 @@
 }
 
 #current_issue_text p.issue {
-  font-family: $cormorant;
+  @include typeface(body);
   font-weight: bold;
   font-size: 1.5em;
 }
 
 #current_issue_text p.season {
-  font-family: $cormorant;
+  @include typeface(body);
   font-size: 25px;
   font-style: italic;
 }
@@ -55,7 +55,7 @@ h3.articletype {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  font-family: $futura;
+  @include typeface(headings);
   font-size: 20px;
   padding: .5em .5em .5em .5em;
 }
@@ -106,5 +106,15 @@ h3.articletype {
 
   p.author {
     font-family: $cormorant;
+  }
+}
+
+h1,
+h2,
+h3{
+  a {
+    text-decoration: none;
+    // border-bottom: 5px lightgreen;
+    box-shadow: inset 0 -4px 0 white, inset 0 -10px 0 #fac157;
   }
 }

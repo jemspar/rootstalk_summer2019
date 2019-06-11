@@ -68,7 +68,7 @@ article > header,
 .footer {
   @include typeface(headings);
   color: $headings;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 article > .content,
