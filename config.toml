@@ -24,3 +24,7 @@ currentIssue = "volume-v-issue-1"
     name = "About"
     url = "/about/"
     weight = "3"
+
+[params]
+#   sidebar = false
+  jquery = true

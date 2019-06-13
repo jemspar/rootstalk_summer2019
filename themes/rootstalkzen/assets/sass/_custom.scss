@@ -9,7 +9,7 @@
     background-size: cover;
     background-position: center center;
     width: 100%;
-    height: 10em;
+    height: 15em;
     display: block;
 }
 
@@ -79,6 +79,7 @@ h3.articletype {
   width: 100%;
   height: auto;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .featured_article {
@@ -115,6 +116,35 @@ h3{
   a {
     text-decoration: none;
     // border-bottom: 5px lightgreen;
-    box-shadow: inset 0 -4px 0 white, inset 0 -10px 0 #fac157;
+    box-shadow: inset 0 -.15em 0 white, inset 0 -.37em 0 #fac157;
   }
+}
+
+.content {
+
+  p a {
+    box-shadow: inset 0 -.2em 0 white, inset 0 -.45em 0 #fac157;
+    text-decoration: none;
+  }
+
+}
+
+.authorbio {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  font-size: 1rem;
+  font-style: italic;
+  color: white;
+  width: 100%;
+  height: auto;
+  background-color: #252f00;
+  padding: 1rem 1rem 1rem 1rem;
+
+    a {
+      color: #fac157;
+      text-decoration: none;
+    }
+    a:hover {
+      color: orange;
+    }
 }

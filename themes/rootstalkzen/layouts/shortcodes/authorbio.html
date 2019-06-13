@@ -1,0 +1,13 @@
+{{ $jquery := resources.Get "js/jquery.slim.min.js" | fingerprint -}}
+<script src="{{ $jquery.RelPermalink }}"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $(".sidebar").prepend(
+  '<div class="authorbio"></div>'
+  );
+  $(".authorbio").append(
+    {{ .Inner | markdownify }}
+  );
+});
+</script>
