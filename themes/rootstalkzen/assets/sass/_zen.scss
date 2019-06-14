@@ -217,8 +217,14 @@ figure {
 // Navigation
 
 .main-menu {
-  @include margin-top(.5);
+  // @include margin-top(.5);
   outline: 0;
+  background-color: black;
+  @include padding(.5 .5 0 .5);
+  @include margin-bottom(.5);
+  position: sticky;
+  top: 0px;
+  z-index: 5;
 
   li {
     @include margin-right(.5);
