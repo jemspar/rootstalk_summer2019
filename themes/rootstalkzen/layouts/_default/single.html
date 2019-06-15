@@ -14,7 +14,9 @@
 <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ .Title }}</h1>
 <h2>{{ printf "by %s" $.Params.author }}</h2>
 <h3 class="articletype">{{ .Params.articletype }}</h3>
-<img width="100%" src={{ printf "/images/headers/%s" $.Params.headerimage }}>
+{{ if isset .Params "headerimage" }}
+  <img width="100%" src={{ printf "/images/headers/%s" $.Params.headerimage }}>
+{{ end }}
 {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
 </header>
