@@ -5,6 +5,7 @@ draft: false
 author: "Shirley Moyer"
 articletype: "Memoir"
 headerimage: "welcoming-the-world.jpg"
+headshot: "shirley-moyer.png"
 authorbio: "Shirley Moyer was born in 1933 at home in Jasper County, Iowa. Her father lost his farm in the Great Depression, after which she, her parents and her sister lived on rented farms and moved often, looking for a better farm. Her family farmed with horses. She graduated from Newburg High School in 1951 and married Wayne Selle in 1952. They worked his parents’ farm south of Grinnell and had four children, two of whom died around nine years of age from Cystic Fibrosis. Wayne died in 1972. She met Allan Moyer, and they were married in 1976."
 ---
 

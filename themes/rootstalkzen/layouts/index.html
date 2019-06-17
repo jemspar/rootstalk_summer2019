@@ -19,10 +19,10 @@
 
 <!-- featured posts -->
 <h2>Featured Articles</h2>
-<div id="featured_container">
+<div id="articlegrid_container">
 
   {{ range .Site.Taxonomies.tags.featured }}
-  <div class="featured_article">
+  <div class="articlegrid_item">
     <a href="{{ .Page.Permalink }}"> <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
     <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
     <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h2>

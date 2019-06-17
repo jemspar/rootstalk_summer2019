@@ -4,6 +4,7 @@ author: "Bridget Brandt"
 date: 2019-06-12T20:00:00-7:00
 articletype: "Memoir"
 headerimage: "a-place-to-call-home.png"
+headshot: "bridget-brandt.png"
 draft: false
 tags: ["featured"]
 authorbio: "
