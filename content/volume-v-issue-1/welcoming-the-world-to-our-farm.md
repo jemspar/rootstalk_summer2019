@@ -1,5 +1,6 @@
 ---
-title: "Pony Rides, Vice-Presidents and Weddings in the Rain: Welcoming the World to Our Farm"
+title: "Pony Rides, Vice-Presidents and Weddings in the Rain"
+subtitle: "Welcoming the World to Our Farm"
 date: 2019-06-14T14:47:40-07:00
 draft: false
 author: "Shirley Moyer"

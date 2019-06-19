@@ -12,13 +12,15 @@
     {{ . | markdownify }}
   </div>
 
-  <h3 class="returnlink">
-    <a href="{{ $.CurrentSection.RelPermalink }}">
-      {{ printf "Return to %s index" $.CurrentSection.Title }}
-    </a>
-  </h3>
 {{ end }}
 
+{{ if eq .Kind "page" }}
+<h3 class="returnlink">
+  <a href="{{ $.CurrentSection.RelPermalink }}">
+    {{ printf "Return to %s index" $.CurrentSection.Title }}
+  </a>
+</h3>
+{{ end }}
 
 <!-- {{ range $.Site.Home.Sections -}}
 <section>

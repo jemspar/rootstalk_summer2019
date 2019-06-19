@@ -10,7 +10,7 @@ authorbio: "[Mary Kay Shanley](http://www.marykayshanley.com) began her career w
 retreats."
 ---
 
-I spied the tee-shirt amidst a plethora of choices online one evening while looking for a gag gift for one of our adult children. I’ve never been much of a tee-shirt person myself, believing that one’s chest and back serve higher purposes than sending messages via a cotton sandwich board. Although, to be honest, I did buy myself a tee-shirt the first day of each of my 17 [RAGBRAIs](https://ragbrai.com). They’ve become badges of accomplishment albeit a little ragged from  the wear. Curiously, this particular tee-shirt I stumbled upon spoke to me in an ethereal manner. Connecting with whatever spirituality I harbor someplace or another within my being. A deeply personal spirituality that didn’t manifest itself until the kids left home and I finally had time to think. This tee-shirt’s message was simple:
+I spied the tee-shirt amidst a plethora of choices online one evening while looking for a gag gift for one of our adult children. I’ve never been much of a tee-shirt person myself, believing that one’s chest and back serve higher purposes than sending messages via a cotton sandwich board. Although, to be honest, I did buy myself a t-shirt the first day of each of my 17 [RAGBRAIs](https://ragbrai.com). They’ve become badges of accomplishment albeit a little ragged from  the wear. Curiously, this particular tee-shirt I stumbled upon spoke to me in an ethereal manner. Connecting with whatever spirituality I harbor someplace or another within my being. A deeply personal spirituality that didn’t manifest itself until the kids left home and I finally had time to think. This tee-shirt’s message was simple:
 
 <p style="text-align: center">
 I INTEND TO LIVE FOREVER
@@ -30,7 +30,9 @@ Obituaries, gathered collectively and over time, embody our historical journey a
 
 The word “obituary” comes from the Latin obit, meaning death. Brief announcements of death were published in America as early as the 16th century. But not until the 19th century, and following a lead from the British, our obits became more detailed accounts, appearing with regularity in the press.
 
-At the time of the Civil War, obituaries for soldiers often included sentiment and religious overtones. This is also when embalming began to find favor because it meant bodies would arrive home intact. Toward the end of the century, “death journalism” emerged. Obituaries in both England and the United States focused on the graphic and often morbid details of the person’s death, a trend that continued into the 20th century. Theodore Roosevelt, president from 1901-1909, died in his sleep at age 60. His obituary in [The New York Times](https://www.nytimes.com) led with an elaborate description of the blood clot that “detached itself from a vein and entered the lungs.”
+![Photo by Emily Mamrak](/images/changing-nature-obituary.jpg)
+
+At the time of the Civil War, obituaries for soldiers often included sentiment and religious overtones. This is also when embalming began to find favor because it meant bodies would arrive home intact. Toward the end of the century, “death journalism” emerged. Obituaries in both England and the United States focused on the graphic and often morbid details of the person’s death, a trend that continued into the 20th century. Theodore Roosevelt, president from 1901--1909, died in his sleep at age 60. His obituary in [*The New York Times*](https://www.nytimes.com) led with an elaborate description of the blood clot that “detached itself from a vein and entered the lungs.”
 
 For a short while, obituaries in verse form had their day in the sun. Consider “A Tribute to Guy Swain,” a Delaware, Ohio, man who fell to his death while trying to chase a raccoon from his tree one night:
 
@@ -48,13 +50,17 @@ For a short while, obituaries in verse form had their day in the sun. Consider �
 
 It wasn’t until the latter part of the 20th century that obituaries began to routinely recognize ordinary people as well as the aristocracy. I’m in the “ordinary” category, and probably most of you are as well.  Because of this shift to us everyday people, anybody can die  and the obit can appear in the newspaper.
 
-Initially, these obituaries included a notice of death, an account of the person’s life and information about the upcoming funeral. A family member either submitted that information to the funeral home or filled out a form provided by the funeral home. This was then sent to the newspaper office where a professional journalist---almost always a cub reporter---wrote the obituary and a professional proofreader checked it for errors. In the Des Moines Register’s newsroom, for example, this good-to-go copy then traveled to the composing room, then on to the pressroom. Mistakes were almost non-existent.
+Initially, these obituaries included a notice of death, an account of the person’s life and information about the upcoming funeral. A family member either submitted that information to the funeral home or filled out a form provided by the funeral home. This was then sent to the newspaper office where a professional journalist---almost always a cub reporter---wrote the obituary and a professional proofreader checked it for errors. In the *Des Moines Register’s* newsroom, for example, this good-to-go copy then traveled to the composing room, then on to the pressroom. Mistakes were almost non-existent.
 
-I launched my journalism career in 1965, at the Register.  Back then, the only newspaper in the United States with more Pulitzers was the New York Times. Heady stuff, but new hires were still newbies. Gals wrote weddings, engagements and club news; guys wrote weather, obits and entries from the police blotter. For about a year, actually. After that, if you were still upright and mobile, you could stop worrying about getting axed by the managing editor and start writing real articles.
+{{% pullquote %}}
+The latest winds of change, as far as obituaries are concerned, have been fanned by Social Media’s penchant for putting everything on the table.
+{{% /pullquote %}}
+
+I launched my journalism career in 1965, at the *Register*.  Back then, the only newspaper in the United States with more Pulitzers was the *New York Times*. Heady stuff, but new hires were still newbies. Gals wrote weddings, engagements and club news; guys wrote weather, obits and entries from the police blotter. For about a year, actually. After that, if you were still upright and mobile, you could stop worrying about getting axed by the managing editor and start writing real articles.
 
 The latest winds of change, as far as obituaries are concerned, have been fanned by Social Media’s penchant for putting everything on the table. Dubbed the “Personalized Obituary,” they’re now written by a family member, a friend or even the deceased person, obviously ahead of time.  Funeral homes, as well as the Internet, provide a plethora of information and assistance. Today, factual information, as well as insights into the life of the deceased, have become the norm. Once written, obituaries are sent directly to the newspaper’s advertising department for layout and design. Nobody proofs what you’ve written so no errors are corrected before press time. Hence, people: be meticulous with your submissions.
 
-Another change: When we “regular folks” began writing our family obituaries, the first eight lines were often free-of-charge. That’s not the case anymore, so caveat emptor. Know cost-per-word for copy and cost-per-size of photo. The obituary has become a reliable source of income for newspapers.
+Another change: When we “regular folks” began writing our family obituaries, the first eight lines were often free-of-charge. That’s not the case anymore, so *caveat emptor*. Know cost-per-word for copy and cost-per-size of photo. The obituary has become a reliable source of income for newspapers.
 
 That said, for some people, paying for even a short obituary can become a huge issue. Funeral directors may suggest the family run only the Basic Death Notice in the local newspaper. Then, the family may post a more comprehensive obituary on the funeral home’s website. Funeral homes generally pay to have their logo and website included with these obituaries, so the family may not incur any costs.
 
@@ -62,9 +68,13 @@ With the increasing popularity of social media in the early 2000s, news organiza
 
 In case you haven’t noticed, Social Media has also conditioned us to share information with complete strangers. Hence, sites like obitkit.com. Its creator Susan Soper says, "We’re more open and apt to have a sense of humor rather than denial about death. People want to celebrate someone for who they are, not for some cookie-cutter person."
 
-And Social Media have conditioned us to laugh out loud. In 2007, [Multimedia Tributes](http://www.tributes.com) posted a video-obituary from the New York Times that included an “appearance” by the newly deceased Art Buchwald, a [Washington Post](https://www.washingtonpost.com) columnist and a two-time recipient of the Pulitzer Prize. In the first frame of the video, the 81-year-old humorist addressed viewers with a giant grin and said, "Hi, I’m Art Buchwald, and I just died."
+{{% pullquote %}}
+Some obituaries still fit into the proper constraints of etiquette. Others wander outside those lines which, truth be told, can be downright entertaining.
+{{% /pullquote %}}
 
-On to the more serious side of the form, [Portraits: 9/11/01: The Collected “Portraits of Grief”](https://archive.nytimes.com/www.nytimes.com/pages/national/portraits/index.html) from the New York Times emerged from superior reporting. Three days after the attack, a half-dozen Times reporters began working from a stack of 100 missing person fliers collected from points around the World Trade Center site. They crafted profiles---stories containing short but signature details of the lives they strove to present. The portraits transcend race, class and gender lines, telling stories of the old and the young, praising their individuality while cutting through their differences to capture the poignancy of their shared similarity: life cut short in an American tragedy. Eventually, “Portraits” grew to more than 1,800 profiles.
+And Social Media have conditioned us to laugh out loud. In 2007, [Multimedia Tributes](http://www.tributes.com) posted a video-obituary from the *New York Times* that included an “appearance” by the newly deceased Art Buchwald, a [*Washington Post*](https://www.washingtonpost.com) columnist and a two-time recipient of the Pulitzer Prize. In the first frame of the video, the 81-year-old humorist addressed viewers with a giant grin and said, "Hi, I’m Art Buchwald, and I just died."
+
+On to the more serious side of the form, [Portraits: 9/11/01: The Collected “Portraits of Grief”](https://archive.nytimes.com/www.nytimes.com/pages/national/portraits/index.html) from the *New York Times* emerged from superior reporting. Three days after the attack, a half-dozen *Times* reporters began working from a stack of 100 missing person fliers collected from points around the World Trade Center site. They crafted profiles---stories containing short but signature details of the lives they strove to present. The portraits transcend race, class and gender lines, telling stories of the old and the young, praising their individuality while cutting through their differences to capture the poignancy of their shared similarity: life cut short in an American tragedy. Eventually, “Portraits” grew to more than 1,800 profiles.
 
 Today, the obituary’s format is as loose or as tight as the family sees fit. Some obituaries still fit into the proper constraints of etiquette. Others wander outside those lines and, truth be told, can be downright entertaining. Consider the following:
 
@@ -78,15 +88,21 @@ Whoever wrote the obit for David Schlang of Scottsdale, Arizona, lauded the man 
 
 After Noah Sagan of Latrobe, Pennsylvania, died of a drug overdose, his mother was determined to pay tribute to her son’s sarcastic humor thus: “He loved the Pittsburgh Penguins, playing videogames, our dog Lizzy, and chicken. He hated lifting weights, but did it anyway, then had a cigarette.”
 
-Then there’s Bill Maurer’s obituary. Bill was managing editor of the Des Moines Tribune and co-managing editor of the Des Moines Register. His 2011 obit was written by friend Michael Gartner who has been Page One Editor of the [Wall Street Journal](https://www.wsj.com) and, later, editor and president of the Des Moines Register. Michael opened the obit thus: “Bill Maurer’s goal was to live to be 113. He didn’t make it.”
+{{% pullquote %}}
+Readers learn not only what a person did but also who the person was. Such information-based storytelling weaves a sense of the local public into our history. 
+{{% /pullquote %}}
+
+Then there’s Bill Maurer’s obituary. Bill was managing editor of the *Des Moines Tribune* and co-managing editor of the *Des Moines Register*. His 2011 obit was written by friend Michael Gartner who has been Page One Editor of the [Wall Street Journal](https://www.wsj.com) and, later, editor and president of the Des Moines Register. Michael opened the obit thus: “Bill Maurer’s goal was to live to be 113. He didn’t make it.”
 
 Robin Kline of Des Moines, Iowa, a culinary professional, crafted her 95-year-old mother’s obituary. I’d never met her mother, but after reading the obit, I knew the woman by the passages:
 
 > “Irene grew up on the diversified family dairy farm, baking pies for threshing crews, gathering eggs from the hen house and every autumn helping butcher and process hogs and making gallons of apple butter for the family table.
 
 > “In college she became skilled in the campus bakery, and fondly remembered making doughnuts for student breakfasts in the wee hours of the morning.”
-“When she and her husband moved to Chicago, she enjoyed discovering the adventures of the metropolis especially the many different ethnic neighborhoods and restaurants that offered new flavors, dishes and cuisine.”
-“Later, she led a team of foods teachers, introduced international foods classes to students and broke with tradition by teaching boys’ food preparation classes”.
+
+> “When she and her husband moved to Chicago, she enjoyed discovering the adventures of the metropolis especially the many different ethnic neighborhoods and restaurants that offered new flavors, dishes and cuisine.”
+
+> “Later, she led a team of foods teachers, introduced international foods classes to students and broke with tradition by teaching boys’ food preparation classes.”
 
 With this approach, readers learn not only what a person did but also who the person was. Such information-based storytelling weaves a sense of the local public into our history.
 
@@ -111,6 +127,6 @@ Peggy Huppert, executive director of the Iowa chapter of the [National Alliance 
 
 So, back to my tee-shirt. It is comforting to know that, overall, life really is “so far, so good.” That said, let me note that I never want to hold the record for being the world’s oldest living person.  According to the [Gerontology Research Group](https://en.wikipedia.org/wiki/Gerontology_Research_Group), right now that record belongs to Violet Brown, a 117-year-old Jamaican woman. Nicknamed “Aunt V,” she and her husband worked as cane farmers, and Violet credits that hard work during her younger years for her longevity. She was baptized 104 years ago, has a 97-year-old son and has been going to church for more than a century.
 
-“I feel good, I feel happy to be the oldest person (in the world),” Brown told the [Jamaica Observer](http://www.jamaicaobserver.com). “I did not feel I would become the oldest person; I feel I would pass long ago. Thank God for whatever He has given to me.”
+“I feel good, I feel happy to be the oldest person (in the world),” Brown told the [*Jamaica Observer*](http://www.jamaicaobserver.com). “I did not feel I would become the oldest person; I feel I would pass long ago. Thank God for whatever He has given to me.”
 
 In today’s sometimes contentious world, Violet’s positive comments are laced with grace and wisdom. And that’s enough for me.

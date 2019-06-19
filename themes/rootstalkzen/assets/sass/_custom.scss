@@ -168,3 +168,28 @@ h3.returnlink {
     position: sticky;
     top: 5rem;
 }
+
+.content .pullquote {
+  font-size: 2rem;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem 0 1rem 0;
+  line-height: normal;
+}
+
+h1.title.withsubtitle {
+  margin-bottom: 0;
+}
+
+h1.subtitle {
+  font-weight: normal;
+  color: darkgreen;
+  font-size: 1.75rem;
+  margin-top: 0;
+}
+
+img,svg {
+  max-height: 90vh;
+}

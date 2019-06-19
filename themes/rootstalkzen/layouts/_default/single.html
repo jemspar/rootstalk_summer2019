@@ -11,7 +11,16 @@
 <main class="main layout__main">
 <article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
 <header>
-<h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ .Title }}</h1>
+
+{{ with .Params.subtitle }}
+  <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }} withsubtitle">{{ $.Title }}</h1>
+  <h1 class="subtitle">
+    &mdash; {{ . | markdownify }}
+  </h1>
+{{ else }}
+  <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title }}</h1>
+{{ end }}
+
 <h2>{{ printf "by %s" $.Params.author }}</h2>
 <h3 class="articletype">{{ .Params.articletype }}</h3>
 {{ with .Params.headerimage }}

@@ -29,6 +29,11 @@ Wow, my own episode of CSI Grinnell! Human identification isn’t my field, but 
 
 Not long ago I was asked to look at another artifact collection. As usual, someone had called the department, where our administrative assistant passed her on to me. The woman seemed nice on the phone, and said she had a lot of ‘old Indian stuff.’ She lived on a local farm, but now had to sell the farm and move, and wanted her finds properly cared for.
 
+{{% pullquote %}}
+You never know what people may have found, and some very odd things get called artifacts, but who could fail to recognize
+arrowheads?
+{{% /pullquote %}}
+
 I applauded the idea. Most artifact collections, without any specifics about where they were found, are largely useless except as teaching specimens. A collection from one specific small area, however, could inform us about an important site that should be investigated or preserved, or might at least represent the range of different periods and people who had once occupied that little river valley. Such collections, with documentary information, are valuable and should be preserved.  I asked the caller what she had. “Oh, lots of arrowheads, all sorts of tools, some pottery.” This was encouraging. You never know what people may have found, and some very odd things get called artifacts, but who could fail to recognize arrowheads?
 
 We made an appointment, and I drove several miles out of town, past grain elevators, through the corridors of endless cornfields, over a shaky bridge crossing a small stream, to a run-down farm, far from anything. A crippled windmill swung in the breeze that whistled through gaps in the silos and shook the rotting shingles on a leaning barn. The house was shabby but I’ve seen worse. I was greeted at the door by a hideous but placid pit bull, who was pushed aside by an indifferent cat, followed by a run-down looking woman about my age. She introduced herself as Selma. A bit overweight, stringy hair, dressed in a worn nightgown and puffing a cigarette---one of Iowa’s rural poor. Selma welcomed me through an entry that was cluttered with dog and cat bowls and muddy shoes, led me past a kitchen, and into the sitting room.
