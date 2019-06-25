@@ -1,0 +1,3 @@
+[submodule "static/js/underlineJS"]
+	path = static/js/underlineJS
+	url = https://github.com/wentin/underlineJS.git
