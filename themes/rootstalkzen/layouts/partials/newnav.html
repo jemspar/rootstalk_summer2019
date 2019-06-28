@@ -1,0 +1,12 @@
+{{ $home := relLangURL "/" }}
+{{ $currentSection := .Section }}
+{{ $currentID := .File.UniqueID }}
+
+{{ $currentPage := . }}
+
+<nav class="blockmenu">
+    <div class="item"><a href="{{ $home }}">Home</a></div>
+    {{ range .Site.Menus.main }}
+        <div class="item"><a href="{{ .URL }}">{{ .Name }}</a></div>
+    {{ end }}
+</nav>

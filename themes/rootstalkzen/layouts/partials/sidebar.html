@@ -1,19 +1,6 @@
 {{ $currentID := .File.UniqueID }}
 <aside class="sidebar layout__second-sidebar">
 
-<!-- for author bio -->
-{{ with .Params.authorbio }}
-  <div class="authorbio">
-      <div id="biotitle">About the Author</div>
-      {{ with $.Page.Params.headshot }}
-        <img id="headshot" src="/images/headshots/{{ . }}" />
-      {{ end }}
-
-    {{ . | markdownify }}
-  </div>
-
-{{ end }}
-
 {{ if eq .Kind "page" }}
 <h3 class="returnlink">
   <a href="{{ $.CurrentSection.RelPermalink }}">

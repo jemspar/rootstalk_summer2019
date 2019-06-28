@@ -1,6 +1,7 @@
 {{ if $.Param "jquery" -}}
-{{ $jquery := resources.Get "js/jquery.slim.min.js" | fingerprint -}}
+{{ $jquery := resources.Get "js/jquery.min.js" | fingerprint -}}
 <script defer src="{{ $jquery.RelPermalink }}"></script>
+<script defer type="text/javascript" src="http://ricostacruz.com/jquery.transit/jquery.transit.min.js"></script>
 {{ end -}}
 {{ $umbrella := resources.Get "js/umbrella.min.js" | fingerprint -}}
 <script defer src="{{ $umbrella.RelPermalink }}"></script>

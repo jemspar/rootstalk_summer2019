@@ -131,12 +131,13 @@ h3{
 }
 
 .authorbio {
-  margin-top: 5rem;
+  margin-top: 2rem;
   margin-bottom: 5rem;
   font-size: 1rem;
   font-style: italic;
   color: white;
-  width: 100%;
+  width: 75%;
+  margin-left: 10%;
   height: auto;
   background-color: #252f00;
   padding: 1rem 1rem 1rem 1rem;
@@ -155,7 +156,7 @@ h3{
       margin-right: 25%;
     }
     #biotitle {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       font-style: normal;
       width: 100%;
       text-align: right;
@@ -197,4 +198,33 @@ img,svg {
 img.leaf {
   width: 5rem;
   height: 5rem;
+}
+
+nav.blockmenu {
+  background-color: rgb(5, 51, 5);
+  position: fixed;
+  top: 0;
+  left: -99%;
+  height: 100%;
+  width: 100%;
+  padding: 2vw 2vw 2vw 2vw;
+  z-index: 10;
+
+    .item {
+      font-family: $raleway;
+      font-weight: 300;
+      font-size: 10vw;
+      line-height: 90%;
+      text-transform: uppercase;
+      color: white;
+      margin-bottom: 2vh;
+      margin-top: 0px;
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        a:hover {
+          font-style: italic;
+        }
+    }
 }

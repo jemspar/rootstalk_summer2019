@@ -35,6 +35,18 @@
 <img class="leaf" src="/images/rootstalk_leaf.svg" />
 {{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
 </div>
+<!-- for author bio -->
+{{ with .Params.authorbio }}
+  <div class="authorbio">
+      <div id="biotitle">About the Author</div>
+      {{ with $.Page.Params.headshot }}
+        <img id="headshot" src="/images/headshots/{{ . }}" />
+      {{ end }}
+
+    {{ . | markdownify }}
+  </div>
+
+{{ end }}
 </article>
 </main>
 {{ end }}
