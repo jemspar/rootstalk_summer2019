@@ -17,7 +17,7 @@ $(document).ready(function() {
     var position = $(".blockmenu").css( "left" );
     if( position == "0px" ) {
       $( ".blockmenu" ).transition(
-        { left : "-99%" });
+        { left : "-96%" });
     } else {
       $( ".blockmenu" ).transition(
         { left : "0px" });

@@ -25,8 +25,11 @@
 </div>
 </header>
 
-{{ partial "newnav.html" . }}
-{{ partial "menu.html" . }}
+{{ if .Site.Params.newnav }}
+    {{ partial "newnav.html" . }}
+{{ else }}
+    {{ partial "menu.html" . }}
+{{ end }}
 
 {{ block "main" . }}{{ end }}
 

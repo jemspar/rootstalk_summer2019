@@ -28,3 +28,4 @@ currentIssue = "volume-v-issue-1"
 [params]
 #   sidebar = false
   jquery = true
+  newnav = true
