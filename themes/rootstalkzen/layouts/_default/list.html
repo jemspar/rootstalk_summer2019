@@ -13,7 +13,7 @@
 
 {{ .Content }}
 
-<div id="articlegrid_container">
+<!-- <div id="articlegrid_container">
 {{ $paginator := .Paginate (.Data.Pages) -}}
 {{ range $paginator.Pages -}}
 <div class="articlegrid_item">
@@ -21,12 +21,25 @@
   <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
   <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h2>
   <p class="author">by {{ .Params.author }}</p>
-  <!-- {{ .Render "summary"}} -->
+ {{ .Render "summary"}}
 </div>
+{{ end -}}
+</div> -->
+
+{{ $paginator := .Paginate (.Data.Pages) -}}
+{{ range $paginator.Pages -}}
+  <div class="listitem">
+    <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" />
+    <div class="text">
+      <div class="title">{{ .Title }}</div>
+      <div class="byline">by {{ .Params.author }}</div>
+      <div class="articletype">{{ .Params.articletype }}</div>
+      <div class="description">{{ .Summary }} <a href="{{ .URL }}">Read more &rarr;</a></div>
+    </div>
+  </div>
 
 {{ end -}}
-</div>
 
 {{ partial "pagination.html" . }}
 </main>
-{{ end }}
+{{ end -}}
