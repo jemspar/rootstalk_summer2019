@@ -29,12 +29,12 @@
 {{ $paginator := .Paginate (.Data.Pages) -}}
 {{ range $paginator.Pages -}}
   <div class="listitem">
-    <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" />
+    <a class="headerimage" href="{{ .RelPermalink }}"><img src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
     <div class="text">
-      <div class="title">{{ .Title }}</div>
+      <div class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
       <div class="byline">by {{ .Params.author }}</div>
       <div class="articletype">{{ .Params.articletype }}</div>
-      <div class="description">{{ .Summary }} <a href="{{ .URL }}">Read more &rarr;</a></div>
+      <div class="description">{{ .Summary }} <a href="{{ .RelPermalink }}">Read more &rarr;</a></div>
     </div>
   </div>
 
