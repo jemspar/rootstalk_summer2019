@@ -5,7 +5,7 @@ articletype: "Editor's Note"
 headerimage: "editors-note-vol-iv-issue-2.jpg"
 date: 2019-05-29T21:08:24Z
 draft: false
-tags: ["featured"]
+tags: [""]
 ---
 
 Now that the winter winds have stopped howling across the harvested fields, and the ambient temperature has climbed reliably above that on the surface of Pluto, we who live in the Great Flyover start thinking about that most Midwestern of Springtime traditions.

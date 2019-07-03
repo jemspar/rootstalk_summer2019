@@ -8,17 +8,16 @@
 {{ end }}
 
 {{ define "main" -}}
+<div id="articletitle"><h1 class="{{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title }}</h1></div>
+
 <main class="main layout__main">
 <article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
 <header>
 
 {{ with .Params.subtitle }}
-  <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }} withsubtitle">{{ $.Title }}</h1>
   <h1 class="subtitle">
     &mdash; {{ . | markdownify }}
   </h1>
-{{ else }}
-  <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title }}</h1>
 {{ end }}
 
 <h2>{{ printf "by %s" $.Params.author }}</h2>
