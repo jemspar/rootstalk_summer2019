@@ -5,7 +5,7 @@ date: 2019-06-19T15:04:30-07:00
 draft: false
 author: "Matt and  Sarah Kargol"
 articletype: "Interview"
-headerimage:
+headerimage: "jumping-into-the-void.jpg"
 headshot:
 authorbio: "[Matt Kargol](http://www.matthewkargolart.com) is a sculptor and native of Oskaloosa, Iowa, where he teaches Art at the local high school.  
 
@@ -40,6 +40,8 @@ just been a killer year. It's been just amazing. I think people now can
 happen by us and kind of discover that we have an art center and find
 out what kinds of things the art center can offer the community. We have
 lots of classes and activities, and different events for everybody.
+
+![Evening at the Oskaloosa Art Center and Studios in the town’s historic downtown district. Photos by Briana Bartlett unless otherwise noted](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-01.jpg)
 
 **Matt:** We have the gallery shows.
 
@@ -80,6 +82,8 @@ equipment that costs a lot and takes up a lot of room. Having that space
 where people can have studio time and just come and create it will be
 pretty unique in Iowa. I don't know if there is another sculpture
 community or sculpture studio in the whole state.
+
+![A gallery show at the Oskaloosa Art Center and Studios. Photo by Sarah Kargol](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-02.jpg)
 
 **Sarah:** So, that's our trajectory. We have big plans. Probably bigger
 than we can chew off by ourselves, and we know that but I think the
@@ -139,6 +143,8 @@ but you know, we've got to take it in steps and make sure our funding
 sources are secure for what we're doing before we add something else to
 it.
 
+![“Anywhere but Here,” by Nathan S. Pierce](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-03.jpg)
+
 ***Rootstalk:*** You mentioned there was an art void here. We're
 curious---with the schools and the local education system here, how does
 this connect with education? Do you get any support from either high
@@ -165,6 +171,8 @@ wouldn't have happened otherwise. It sparked something. I don't know if
 they liked it or disliked it, but that doesn't really matter. The fact
 is that they were contemplating something that they wouldn't have
 contemplated before and so their world has expanded.
+
+![“Cultural Pedestrians,” by Sue Quinlan](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-04.jpg)
 
 ***Rootstalk:*** We're curious what each of your individual philosophies
 or approaches to art are both in your practice and in your work in the
@@ -213,6 +221,8 @@ Especially this next generation that's coming up. Maybe \[art is\] not
 going to be this foreign thing. The longer we're here, the more of an
 impact we're going to have. This is a safe space.
 
+![“Flight,” by Hilde DeBruyne](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-05.jpg)
+
 **Matt:** I like to think we've given a home to a lot of kids where they
 can feel comfortable. There's people, not just kids, that go through all
 kinds of things in their lives and sometimes the world is kind of cruel
@@ -238,6 +248,8 @@ problem. It wasn't necessarily about me, but it was about....
 **Matt:** I love sculptures, and if I love it, somebody else was going
 to love it.
 
+![“Angles, Shadows, Reaching,” by Bill McGrath](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-06.jpg)
+
 **Sarah:** And people do.
 
 **Matt:** So we might as well share it.
@@ -252,6 +264,8 @@ or metal fabrication or any sort of sculpture really has fueled getting
 the art center going, this sculpture annex going, the sculpture tour, I
 mean all of it. I want to say we've all worked together to get this
 going and up off the ground but Matt's really been the ignition point.
+
+{{% pullquote %}}There’s artists doing all kinds of wonderful things and if we can bring them here...and they could work through the art center...that just exposes our community to more opportunities and more ways of working...{{% /pullquote %}}
 
 **Matt:** Going forward, we want to start a residency program because we
 only can teach so many things to people who are in this community, we
@@ -298,6 +312,8 @@ market just bottomed out. We did art full time for three years which
 was... and I tell people this... it was great and at the same time the
 hardest thing I'd ever done.
 
+![“Angele,” by Chris Wubbena](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-07.jpg)
+
 **Matt:** It was the best of times, it was the worst of times....
 
 **Sarah:** It's really true. We had four kids and no money. The power
@@ -319,6 +335,8 @@ for them, that's why we went and did art full time. We wanted to say,
 "look, you can follow your dreams, you can be who you want to be or who
 you're made to be in this world," but it wasn't that easy.
 
+![“Where We Goin’,” by Jacob McGinn](/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-08.jpg)
+
 **Matt:** You know, we're artists. Artists need a community to work from
 and to work around other artists and creative people. It's interesting
 because I always think of myself as an artist first and then I teach
@@ -335,3 +353,5 @@ you realize: if someone's going do it, it's going be me.
 
 **Sarah:** Right. See a need, fill a need. There was a definite need
 here, so we jumped in.
+
+

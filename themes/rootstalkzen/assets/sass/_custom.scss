@@ -182,11 +182,11 @@ h3.returnlink {
   line-height: normal;
 }
 
-h1.title.withsubtitle {
-  margin-bottom: 0;
-}
+// h1.title.withsubtitle {
+//   margin-bottom: 0;
+// }
 
-h1.subtitle {
+h2.subtitle {
   font-weight: normal;
   color: darkgreen;
   font-size: 1.75rem;
@@ -206,9 +206,9 @@ nav.blockmenu {
   background-color: rgba(17, 82, 17, 0.95);
   position: fixed;
   top: 0;
-  left: -96%;
+  left: -71vw;
   height: 100%;
-  width: 100%;
+  width: 75vw;
   padding: 2vw 2vw 2vw 2vw;
   z-index: 10;
 
@@ -218,7 +218,7 @@ nav.blockmenu {
 
     .item {
       font-weight: 300;
-      font-size: 10vw;
+      font-size: 8vw;
       line-height: 90%;
       margin-bottom: 2vh;
       margin-top: 0px;
@@ -238,9 +238,9 @@ nav.blockmenu {
 
     #label {
       position: absolute;
-      top: 2%;
-      left: 96%;
-      width: 4%;
+      top: 2vh;
+      left: 71vw;
+      width: 4vw;
       height: 100%;
       font-family: $raleway;
       font-weight: 400;
@@ -291,6 +291,16 @@ nav.blockmenu {
       text-align: left;
       padding-bottom: 0.15em;
       margin-bottom: 0.15em;
+    
+      a {
+        text-decoration: none;
+        transition: 0.3s;
+      }
+  
+      a:hover {
+        box-shadow: inset 0 -.15em 0 rgba(255, 255, 255, 1), inset 0 -.37em 0 #fac157;
+      }
+
     }
 
     .byline {
@@ -314,15 +324,6 @@ nav.blockmenu {
 
     .description {
       margin-top: 1em;
-    }
-
-    a {
-      text-decoration: none;
-      transition: 0.3s;
-    }
-
-    a:hover {
-      box-shadow: inset 0 -.15em 0 rgba(255, 255, 255, 1), inset 0 -.37em 0 #fac157;
     }
 
   }

@@ -8,8 +8,11 @@
 {{ end }}
 
 {{ define "main" -}}
+<div id="articletitle" style="margin-bottom: 3rem">
+    <h1 class="title">{{ .Title }}</h1>
+</div>
+
 <main class="main layout__main">
-<h1 class="title">{{ .Title }}</h1>
 
 {{ .Content }}
 
