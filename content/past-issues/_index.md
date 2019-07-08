@@ -1,5 +1,0 @@
----
-title: "Past Issues"
----
-
-{{< listpastissues >}}

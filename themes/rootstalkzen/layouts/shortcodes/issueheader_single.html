@@ -1,0 +1,23 @@
+<!-- {/{ $issuename := .Get "issue" }/}
+{/{ $issue := .Get "issue" | .Page.GetPage }/} -->
+
+<!-- default .Page.CurrentSection -->
+
+{{ $string := .Get "issue" }}
+{{ $issue := .Page.GetPage $string }}
+
+{{ with $issue }}
+<a href="{{ .RelPermalink }}">
+    <div id="current_issue_img" style="--coverurl: url('{{.RelPermalink}}cover.png') ;">
+  
+      <div id="current_issue_text">
+  
+        <p class="issue">{{ .Title }}</p>
+        <p class="season">{{ .Params.description | markdownify }}</p>
+  
+      </div>
+  
+    </div>
+  </a>
+
+{{ end }}

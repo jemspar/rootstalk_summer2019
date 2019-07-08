@@ -1,5 +1,0 @@
-{{ range (.Page.Sections.ByParam "issueIndex").Reverse }}
-  <a href="{{ .RelPermalink }}"><img src="{{ .RelPermalink }}cover.png" /></a>
-  <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
-  <p style="margin-bottom: 3em;">{{ .Params.description }}</p>
-{{ end }} 

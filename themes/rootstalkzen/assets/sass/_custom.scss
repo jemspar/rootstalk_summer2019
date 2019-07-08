@@ -4,7 +4,7 @@
 
 #current_issue_img::before {
   content: "";
-  background-image: url('/images/volume-v-issue-1/VolV_Issue1_cover.jpg');
+  background-image: var(--coverurl);
   filter: blur(5px);
     background-size: cover;
     background-position: center center;
