@@ -1,5 +1,5 @@
 {{ $maxwidth := .Site.Params.imageMaxWidth -}}
-{{ with (imageConfig (add "/static/" (.Get "src"))) -}}
+{{ with (imageConfig (add "content/" (.Get "src"))) -}}
     {{ $.Scratch.Set "realwidth" .Width -}}
     {{ $.Scratch.Set "realheight" .Height -}}
     {{ $.Scratch.Set "width" .Width -}}
@@ -34,7 +34,7 @@
 <h4>{{ .Get "title" }}</h4>{{ end }}
 {{ if or (.Get "caption") (.Get "attr") -}}
 <p>
-{{- .Get "caption" -}}
+{{- .Get "caption" | markdownify -}}
 {{ with .Get "attrlink" }} <a href="{{ . }}">{{ end }}{{ .Get "attr" }}{{ if .Get "attrlink" }}</a>{{ end -}}
 </p>
 {{ end -}}
