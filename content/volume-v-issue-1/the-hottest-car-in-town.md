@@ -42,4 +42,4 @@ My mom took my car to go visit a friend once.  Since those ‘hot cars’ had ma
 
 My grandson used to pull up beside us sometimes in town and we’d race as best we could. I didn’t lose many of those either, even when I was racing him with my pickup. Fortunately, I don’t get it by the police at all now. Don’t think they ever got any trouble with me.
 
-![A 1932 Model B Ford. Photo courtesy of WheelsAge.org](https://i.wheelsage.org/pictures/ford/model_b/autowp.ru_ford_model_b_roadster_1.jpg)
+{{% figure caption="A 1932 Model B Ford. Photo courtesy of WheelsAge.org" src="https://i.wheelsage.org/pictures/ford/model_b/autowp.ru_ford_model_b_roadster_1.jpg" %}}

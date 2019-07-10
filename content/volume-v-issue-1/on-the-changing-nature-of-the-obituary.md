@@ -30,7 +30,7 @@ Obituaries, gathered collectively and over time, embody our historical journey a
 
 The word “obituary” comes from the Latin obit, meaning death. Brief announcements of death were published in America as early as the 16th century. But not until the 19th century, and following a lead from the British, our obits became more detailed accounts, appearing with regularity in the press.
 
-![Photo by Emily Mamrak](/images/changing-nature-obituary.jpg)
+{{% figure caption="Photo by Emily Mamrak" src="/images/changing-nature-obituary.jpg" %}}
 
 At the time of the Civil War, obituaries for soldiers often included sentiment and religious overtones. This is also when embalming began to find favor because it meant bodies would arrive home intact. Toward the end of the century, “death journalism” emerged. Obituaries in both England and the United States focused on the graphic and often morbid details of the person’s death, a trend that continued into the 20th century. Theodore Roosevelt, president from 1901--1909, died in his sleep at age 60. His obituary in [*The New York Times*](https://www.nytimes.com) led with an elaborate description of the blood clot that “detached itself from a vein and entered the lungs.”
 

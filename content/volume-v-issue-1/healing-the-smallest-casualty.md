@@ -35,7 +35,7 @@ There’s one memory in particular that connects the life I led in Iraq with the
 
 As you might imagine, this mission had a high chance of failure. After all, no one can predict how a child will behave in a barber chair, and that’s without a language barrier. Sajad seemed to trust me. I guess we’d bonded pretty well by this point, but honestly, I’m sure he was ready for a change of scenery. So, I loaded him up in the Hummvee, buckled him in the passenger seat and we were off to the barbershop. I don’t remember now if he gave me much trouble in the barber chair, but I do remember holding him in my lap as the barber did his thing, and I remember working up quite a sweat doing it. He was sure a hit with everyone we encountered that afternoon. Smiling and greeting them all, bringing a smile to their faces as well. He certainly looked sharp with that new cut and it seemed he knew it as well.
 
-![Photo courtesy of Randall Hotchkin](/images/rjs-barbershop.jpg)
+{{% figure caption="Photo courtesy of Randall Hotchkin" src="/images/rjs-barbershop.jpg" %}}
 
 It’s interesting to note that, many years later, retired from the Air Force, I find myself back in my hometown, cutting hair in my own small-town barbershop. I had a friend once tell me that she thought it was really cool that I had joined the military like my father, and was now doing hair like my mother, who was a beautician. I’m fine with where things ended up. There aren’t many things you can do in life that give you immediate gratification from your work, but I have that privilege.
 

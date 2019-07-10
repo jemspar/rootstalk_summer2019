@@ -13,10 +13,10 @@
     display: block;
 }
 
-#current_issue_img {
+#current_issue_img, #current_issue_img:hover {
   overflow: auto;
   position: relative;
-
+  text-decoration: none;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,7 +58,7 @@ h3.articletype {
   @include typeface(headings);
   font-size: 20px;
   padding: .5em .5em .5em .5em;
-  margin-bottom: 1em;
+  margin-bottom: .5em;
 }
 
 .download_link {

@@ -11,7 +11,7 @@ authorbio: "[John Whittaker](https://www.grinnell.edu/user/whittake) has been te
 
 I’m an archaeologist, so I get calls occasionally: someone has an artifact they want me to look at. Usually it’s an ‘arrowhead’ they have just found, or a collection made over the years or inherited from granddad. I don’t encourage people to collect artifacts without documenting location, because this removes them from the site and diminishes the chances that they can tell us anything about past people. Nevertheless, I try not to sound too self-righteous about archaeological ethics when I talk to a friendly member of the public. I always enjoy looking at someone’s artifacts, even if I secretly lament the loss of knowledge when objects are removed from their original contexts.  I can usually make a friend and tell them something they find interesting. “See the beveled edge on this one? That means it was probably resharpened---some of these big arrowheads were actually spear and knife points.” And so on. Archaeologists need to talk to the public, not only because support for archaeology ultimately comes from them, but because many great archaeological finds were made by the farmer, the construction worker, or the curious kid who happened on something unusual and told “the authorities.”
 
-![Arrowheads made by the author from a variety of stones, using ancient techniques. Photo courtesy of John Whittaker](/images/worthless-rocks/arrowheads1.jpg)
+{{% figure caption="Arrowheads made by the author from a variety of stones, using ancient techniques. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads1.jpg" %}}
 
 Sometimes the find is “big bones.” My heart beats a bit faster when I hear that, because Ice Age mammal finds are not impossible in Iowa. When foundations were being dug for one of the downtown stores in Grinnell in the late 1800s, pieces of mammoth tusk turned up. They were displayed in the college’s Parker Museum of Natural History, a rather fine small collection that was allowed to deteriorate through the 1950s and eventually bulldozed into the ruins when an unusually stupid administration tore down most of our attractive 19th Century buildings. Most such Pleistocene animals (not administrators, but such things as mammoths, camels, and giant ground sloths) lived before people populated North America, so properly speaking, they are not archaeology. But they are still interesting, and there is always the possibility that a mammoth might be late enough to have been the prey of a Clovis hunter 13,000 years ago, which would make it rare and important archaeology. However, a quick glance at the bones usually tells me that we have found the last resting place of Dobbins the forgotten workhorse or Daisy the elderly milk cow, disposed of in a pit in the pasture, forgotten by the generations after granddad.
 
@@ -19,7 +19,7 @@ One morning as I arrived early at Grinnell College’s Goodnow Hall, where I hav
 
 “Are you Dr. Whittaker?”
 
-![Old “Arrowheads” from the College’s former Parker Natural History Museum, along with river-rolled flints that look like artifacts. Photo courtesy of John Whittaker](/images/worthless-rocks/arrowheads2.jpg)
+{{% figure caption="Old “Arrowheads” from the College’s former Parker Natural History Museum, along with river-rolled flints that look like artifacts. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads2.jpg" %}}
 
 I felt the twinge we all do when confronting the legal authorities, but as far as I could remember I hadn’t done anything criminal, illegal, or even publicly embarrassing in the last few weeks, so I admitted my identity.
 
@@ -64,4 +64,4 @@ Finally I made my excuses to Selma:. “Gotta get back and get ready for classes
 
 We parted on good terms. Although we really didn’t do much for each other, I like to hope that I left her feeling that academics aren’t too stuck-up to talk to citizens, even if we must be kinda stupid. At the door she closed the episode perfectly.  “I do want my stuff taken care of. Do you think anyone at the [Meskwaki Tribe](https://meskwaki.org) would be interested?”
 
-![Three points made by the author, along with river-rolled flints that look like artifacts, and gravel. Photo courtesy of John Whittaker](/images/worthless-rocks/arrowheads3.jpg)
+{{% figure caption="Three points made by the author, along with river-rolled flints that look like artifacts, and gravel. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads3.jpg" %}}

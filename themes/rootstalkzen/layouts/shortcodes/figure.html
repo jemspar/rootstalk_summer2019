@@ -1,10 +1,20 @@
 {{ $maxwidth := .Site.Params.imageMaxWidth -}}
-{{ with (imageConfig (add "content/" (.Get "src"))) -}}
-    {{ $.Scratch.Set "realwidth" .Width -}}
-    {{ $.Scratch.Set "realheight" .Height -}}
-    {{ $.Scratch.Set "width" .Width -}}
-    {{ $.Scratch.Set "height" .Height -}}
-{{ end -}}
+
+{{ $url := .Get "src" }}
+
+<!-- add "/content" only if URL is internal -->
+{{ if (eq (substr $url 0 1) "/")}}
+    {{ $url = (add "/content" $url) }}
+{{ end }}
+
+<script>console.log("{{$url}}");</script>
+
+<!-- {/{ with (imageConfig $url) -}}
+    {/{ $.Scratch.Set "realwidth" .Width -}}
+    {/{ $.Scratch.Set "realheight" .Height -}}
+    {/{ $.Scratch.Set "width" .Width -}}
+    {/{ $.Scratch.Set "height" .Height -}}
+{/{ end -}} -->
 {{ if and (.Get "width") (.Get "height") -}}
     {{ $.Scratch.Set "width" (int (.Get "width")) -}}
     {{ $.Scratch.Set "height" (int (.Get "height")) -}}

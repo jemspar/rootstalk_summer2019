@@ -25,6 +25,12 @@ currentIssue = "volume-v-issue-1"
     url = "/about/"
     weight = "3"
 
+  [[menu.main]]
+    identifier = "topics"
+    name = "Topics"
+    url = "/tags/"
+    weight = "4"
+
 [params]
 #   sidebar = false
   jquery = true
