@@ -1,6 +1,6 @@
 ---
 title: "Mammals of the Prairie: Virginia Opossum"
-subtitle: "Didelphis virginiana"
+subtitle: "*Didelphis virginiana*"
 date: 2019-07-08T16:30:42-07:00
 draft: false
 author: "Bruce Leventhal and Ken Saunders II"

@@ -66,6 +66,7 @@ $georgia:         Georgia, 'Times New Roman', 'DejaVu Serif', serif;
 $garamond:        'Garamond Premier Pro', Charter, 'Times New Roman', serif;
 
 $cormorant:       'Cormorant', 'Times New Roman', serif;
+$alegreya:        'Alegreya', 'Times New Roman', serif;
 
 // Sans-serif font stacks.
 $verdana:         Verdana, Tahoma, 'DejaVu Sans', sans-serif;
@@ -92,7 +93,7 @@ $menlo:           Menlo, 'Ubuntu Mono', 'DejaVu Sans Mono', 'Courier New', Couri
 // typeface() mixin.
 $typefaces: (
   body: (
-    font-family: $cormorant,
+    font-family: $alegreya,
   ),
   headings: (
     font-family: $raleway,
