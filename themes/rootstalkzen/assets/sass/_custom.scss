@@ -371,3 +371,9 @@ figcaption {
   padding-right: 15%;
   padding-left: 2%;
 }
+
+.layout__page {
+  margin-right: calc(45% - 480px);
+  margin-left: auto;
+  margin-top: 0;
+}

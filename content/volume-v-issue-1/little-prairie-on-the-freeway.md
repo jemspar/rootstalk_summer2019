@@ -1,11 +1,11 @@
 ---
 title: "Little Prairie On The Freeway"
 subtitle:
-date: 2019-07-12T15:20:00-7:00
+date: 2019-07-12T15:20:00-07:00
 draft: false
 author: "Cindy Crosby"
 articletype: "Essay"
-headerimage:
+headerimage: "little-prairie-on-the-freeway.jpg"
 headshot:
 authorbio:
 ---

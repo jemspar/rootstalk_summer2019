@@ -2,10 +2,10 @@
 title: "Cheyenne Bottoms"
 subtitle: "The Indispensible Kansas Wetland You Never Knew About"
 date: 2019-07-11T21:19:12-07:00
-draft: true
+draft: false
 author: "Alicia DeHaan"
 articletype: "Essay"
-headerimage:
+headerimage: "cheyenne-bottoms.jpg"
 headshot:
 authorbio:
 ---
@@ -24,6 +24,8 @@ largest inland marsh in the United States, is vitally important to the
 survival of many shorebirds. It also brings 60,000 people to the area
 each year, providing an opportunity for both children and adults to
 learn about the importance of wetlands and the animals who live there.
+
+{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-1.jpg" caption="American white pelicans, cormorants, gulls and assorted other waterfowl gather on a spit at Cheyenne Bottoms. photos by Kaleb Kroeker unless otherwise noted" %}}
 
 Although few would guess it, Kansas contains one of the most crucial
 shorebird stopping places in the western hemisphere. Each spring tiny
@@ -48,6 +50,8 @@ endangered species that visit the marsh are the bald eagle, piping
 plover, and peregrine falcon. The wetlands have been designated as a
 critical habitat for both whooping cranes and the interior least tern.
 
+{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-2.jpg" caption="A black-necked stilt working the shallows at Cheyenne Bottoms." %}}
+
 Before the arrival of Francisco Coronado, only the native Indian tribes,
 such as the Cheyenne, after whom Cheyenne Bottoms is named, knew of this
 place. Although other explorers visited the region, and large numbers of
@@ -63,6 +67,8 @@ someone, maybe a hunter, would recover the bird and return the band to
 him, so he could determine how far the banded birds had journeyed. Robl
 found that the birds he'd banded at Cheyenne Bottoms had flown to Kansas
 from all over North America.
+
+{{% pullquote %}}Kansas contains one of the most crucial shorebird stopping places in the western hemisphere.{{% /pullquote %}}
 
 Robl was astonished at the returns he collected, receiving them from as
 far away as Alaska, South Carolina, and California, while other birds
@@ -93,6 +99,8 @@ even ten percent the number of shorebirds that visited Cheyenne Bottoms.
 When the data from the two men's research was combined, it became clear
 that the wetlands was a vital oasis for migrating birds.
 
+{{% pullquote %}}Over the next twelve years, Martinez banded over 58,000 birds from 32 species. His northernmost return came from Siberia, and his southernmost from Argentina.{{% /pullquote %}}
+
 In a *New York Times* interview, Martinez said: "It's remarkable what
 passes through Cheyenne Bottoms, sandpipers that winter in Tierra del
 Fuego and breed in Siberia. I got to hold them in my hand and marvel at
@@ -105,8 +113,7 @@ Not only does Cheyenne Bottoms provide shelter and food for many
 animals, it also draws many people to Kansas, opens a door for people to
 learn about this very special wetland ecosystem, and brings \$2.8
 million into the state's economy annually. Each year, 60,000 people
-visit Cheyenne Bottoms, some drawn by the Wings n' Wetlands
-(http://wetlandscenter.fhsu.edu/wings-n-wetlands-birding-festival)
+visit Cheyenne Bottoms, some drawn by the [Wings n' Wetlands](http://wetlandscenter.fhsu.edu/wings-n-wetlands-birding-festival)
 birding festival which is held every other year at the marsh. Visitors
 to Cheyenne Bottoms can hike on a nature trail, listen to guided tours,
 and explore displays inside a Wetlands Education Center.
@@ -122,3 +129,5 @@ hear the raucous calling of geese, and crane our necks to see flocks of
 thousands wheel in the sky. We can marvel at their migration journey and
 should do what we can to ensure that the waypoint they rely on will
 always be here to welcome them.
+
+{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-4.jpg" %}}

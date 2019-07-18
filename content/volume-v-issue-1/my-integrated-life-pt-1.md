@@ -5,7 +5,7 @@ date: 2019-07-11T19:58:21-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
-headerimage:
+headerimage: "my-integrated-life-pt-1.jpg"
 headshot:
 authorbio:
 ---
@@ -88,6 +88,8 @@ significant had occurred. With a gleam in her eye that was still there
 in her 80s, she told me, "The happiest time was getting out for recess
 because you could play with ALL the children on the playground."
 
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+
 Over the years, my grandmother described Buxton as generally a very good
 place to grow up. "I don't like this one, I don't like that one...can't
 go here, can't go there...we never had that nonsense!" That was
@@ -115,6 +117,8 @@ communities outside of Des Moines. Mom and Dad would pack my two
 brothers (Kevan and Don) and me into dad's beloved '55 Dodge and head
 off to Albia, Marshalltown, Perry or somewhere else where the family had
 friends from the Buxton days.
+
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-2.jpg" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
 
 I remember hearing about The Buxton Club^3^, a social circle of mainly
 women whose families had roots in Buxton/Monroe County. In the summer of
@@ -191,6 +195,10 @@ father's induction into the Iowa Jazz Hall of Fame, I learned from his
 friends in attendance that he brought musicians to our Walker Street
 house to teach them the Schillinger System.
 
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-3.jpg" %}}
+
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-4.jpg" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
+
 Music, mathematics and technology were completely integrated in my
 father's mind. In my 20s, when I encountered the writings of R.
 Buckminster Fuller^11^, I found someone who could clearly articulate
@@ -208,7 +216,9 @@ me they looked like little spaceships. I delighted in removing them from
 the back of old radios and zooming them around the room flying my
 mission to Mars.
 
-**The 60s: Music, and *The Register***
+{{% pullquote %}}According to my grandmother and everyone else I knew, if there was something I wanted to do, I had to get out there, prepare myself and go for it. During the tumultuous years of the 1960s, I would find myself pursuing ambitions in two realms: the literary and the musical.{{% /pullquote %}}
+
+**The 60s: Music, and _The Register_**
 
 According to my grandmother and everyone else I knew, if there was
 something I wanted to do, I had to get out there, prepare myself and go
@@ -279,6 +289,8 @@ suppose. What was revealed was a yawning cavern of stuffed pain,
 questioning and longing to understand what, besides my dad, happened to
 be missing from my life.
 
+{{% figure caption="A portrait of the artist as a young journalist. Dartanyan at the offices of the Drake Times Delphic" src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-5.jpg" %}}
+
 I struggled to deal with feelings that had nothing to do with striving,
 with achieving, or with caring about social position. I discovered the
 primal longing that each of us is subject to as human beings. It was the
@@ -335,6 +347,8 @@ displaying Pulitzer Prize winning stories, editorial cartoons and
 headlines. At that point in history, the *Register and Tribune*
 newspapers WERE the news sources all Iowa (and most of the Midwest)
 depended upon.
+
+{{% pullquote %}}Integration is a part of this time in my life: when I was hired as a coffee boy, sports phone desk person and copy runner, I was the only African American on the *Register* editorial staff.{{% /pullquote %}}
 
 I got off the elevator, turned left twice and walked into a beehive
 convention in which activity was going off in all directions at once. I
@@ -406,6 +420,8 @@ when I was approached by the city editor with a question: Would I be
 able to grab a camera and go to the area of the rioting to take pictures
 and report on what might be happening?
 
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-6.jpg" caption="Protest against the Vietnam war in 1968, at Drake University" %}}
+
 Before I knew it, I was stepping over fire hoses in the street, avoiding
 the police who were trying to keep order, and estimating the size of the
 groups of people who were either part of the action or observers.
@@ -442,6 +458,8 @@ hallmarks of those who went out and got the story, and got it right.
 Pulitzer-Prize-winning writers like Nathan 'Nick' Kotz^24^ and the
 *Register's* own Clark Mollenhoff^25^ were the kind of reporters that we
 need vastly more of today.
+
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-7.jpg" caption="Anti-racism protest at Drake University in 1968" %}}
 
 Then, in 1968, my journalistic worlds became a little too well
 integrated. Let me explain:
@@ -480,6 +498,8 @@ giveth and the press passes taketh away. Luckily there had been no
 murders, fires, robberies or even kittens up a tree during my absence,
 but my two-places-at-once act became office legend at the pre-Gannett
 *Register*.
+
+{{% pullquote %}}The tragedy of the Kent State Massacre in May of 1970 triggered deep evaluation for me: Who was I, really? What was I doing here? Where else should I be? Why couldn’t I ever relax and how could I regain equilibrium?{{% /pullquote  %}}
 
 **The Wobble Begins**
 
@@ -563,6 +583,8 @@ changing, as all three of us would try, with varying degrees of success,
 to rebuild a relationship with Ellsworth and to make up for the time
 lost.
 
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-8.jpg" caption="Wheatstraw on stage in Greenwood Park in Des Moines: Ron Dewitte (guitar), Dartanyan (bass) and David Bernstein (on drums). Photo by Bill Plymat" %}}
+
 After the call, I resolved to go to NYC to see dad during my Spring
 break.
 
@@ -605,6 +627,8 @@ One time a gal offered me a half-smoked joint and I didn't want to be
 impolite, so I took her half-smoked gift and stuck it in my billfold
 saying, "If it's ok with you, I'll save it for later." Famous last
 words.
+
+{{% pullquote %}}Funny what joining a $90-a-week Blues band and leaving town will do for your crushed ego. I learned to care again. I started to care about myself and slowly dare to rebuild a value system.{{% /pullquote %}}
 
 **Busted**
 
@@ -667,6 +691,8 @@ It was also a good thing that I was now actually communicating with my
 father. With his help, I eventually came to see that leaving college was
 a personal reset that put my life on a more sentient path. It sure beat
 going to Viet Nam to kill (or be killed) by folks I didn't even know.
+
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-9.jpg" caption="A symphony in brown crushed velvet: Dartanyan in Six the Hard Way after it morphed from Wheatstraw" %}}
 
 **Last Resort?**
 
@@ -735,7 +761,9 @@ to the "big time" to play with...Bill Chase!! (Chase's second album,
 "Ennea," had been released a few months earlier). Tommy was a great
 drummer who rightly jumped at the chance to play with Bill. Of course,
 that meant the end of our great little Des Moines band but things were
-far from boring\....
+far from boring...
+
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-10.jpg" caption="Chase’s second album “Ennea” came out not long before Bill Chase called Dartanyan up to the big-time" %}}
 
 After Tommy left town, I collaborated with John Rowat, Bill Jacobs and
 Michael Schomers to start a band called The Mothership. It was another
@@ -756,7 +784,7 @@ like the previously mentioned Flippers, singer Marvin Spencer^38^, and
 lots of groups from Kansas, Florida, Louisiana and elsewhere. The list
 of bands that toured the roadhouse circuit to carve out a career is
 long. I was at home next door to the club when one day the phone
-rang\....
+rang...
 
 I picked it up. " Hello," I said.
 
@@ -780,7 +808,9 @@ band, the CC Riders^39^. For those of you unfamiliar with the tradition,
 Wayne Cochran was a White soul singer in the tradition of James Brown.
 The cool thing about Cochran was that he, like Brown, was the real deal.
 He was a loud, signifyin', funkified White boy who could drive an
-audience as well as any R&B veteran I ever saw. But I digress\....
+audience as well as any R&B veteran I ever saw. But I digress...
+
+{{% pullquote %}}I listened transfixed as I watched Jaco creating totally loose, but on-the-mark bass grooves. His sensibilities for groove and support and melodic bass playing were strangely scary, but at the same time an affirmation of where I knew the instrument could go.{{% /pullquote %}}
 
 Cochran's energy emanated as much from his band as from his own nasty
 soul. The band's engine was being stoked by a tall skinny kid on bass
@@ -856,6 +886,8 @@ drug and alcohol abuse. Still, I'll always have memories (and the tapes)
 of the Jaco Pastorius I knew, who propelled Wayne Cochran and the CC
 riders in '72. Bless you Jaco.
 
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-11.jpg" caption="Dartanyan sailing on stage when he was a member of Chase" %}}
+
 **Back to Bill...**
 
 It was now spring '73 and, as I mentioned earlier, Tommy Gordon, our
@@ -897,3 +929,5 @@ My band mates, John Rowat, Michael Schomers, Frank Tribble and Bill
 Jacobs, were more supportive of me moving up than they were disappointed
 at losing a renter, so I was off to Chicago to begin what would be
 life-changing circumstances.
+
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}

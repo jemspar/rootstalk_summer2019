@@ -5,7 +5,7 @@ date: 2019-07-11T20:24:31-07:00
 draft: false
 author: "John Grey"
 articletype: "Poetry"
-headerimage:
+headerimage: "john-grey-two-poems.jpg"
 headshot:
 authorbio:
 ---
