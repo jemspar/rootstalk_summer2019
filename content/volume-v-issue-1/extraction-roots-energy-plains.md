@@ -8,6 +8,7 @@ articletype: "Essay"
 headerimage: "extraction-roots-energy-plains.jpg"
 headshot:
 authorbio:
+description: "This scholar of Native American culture meditates on the meaning of roots, and the challenge to them represented by energy extraction."
 ---
 
 

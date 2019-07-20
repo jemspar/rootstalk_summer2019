@@ -8,6 +8,7 @@ articletype: "Essay"
 headerimage: "cheyenne-bottoms.jpg"
 headshot:
 authorbio:
+description: "During the yearly migration, an astonishing forty-five percent of all North American shorebirds pass through this Kansas marsh."
 ---
 
 The Sandhill crane's weary wing beats carry him along with the flock,

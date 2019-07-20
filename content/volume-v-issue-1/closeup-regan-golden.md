@@ -1,13 +1,14 @@
 ---
 title: "Closeup: Regan Golden"
 subtitle:
-date: 2019-07-12T15:38:00-7:00
+date: 2019-07-12T15:38:00-07:00
 draft: false
 author:
-articletype:
-headerimage:
+articletype: "Painting"
+headerimage: "regan-golden.jpg"
 headshot:
 authorbio:
+description: "To depict ecological change in the American landscape, this artist brings together paints, drawing materials and altered photographs."
 ---
 
 For the past decade my artwork and research has focused on 'edgelands,'

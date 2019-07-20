@@ -29,20 +29,34 @@
 {{ end -}}
 </div> -->
 
-{{ $paginator := .Paginate (.Data.Pages) -}}
-{{ range $paginator.Pages -}}
+<!-- SINGLE COLUMN -->
+<!-- 
   <div class="listitem">
     <a class="headerimage" href="{{ .RelPermalink }}"><img src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
     <div class="text">
-      <div class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-      <div class="byline">by {{ .Params.author }}</div>
+      <div class="title"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></div>
+      <div class="byline">{{with .Params.author}}by {{ . }}{{ end }}</div>
       <div class="articletype">{{ .Params.articletype }}</div>
       <div class="description">{{ .Summary }} <a href="{{ .RelPermalink }}">Read more &rarr;</a></div>
     </div>
-  </div>
+  </div> -->
+
+<!-- THREE COLUMNS -->
+<div id="articlegrid_container">
+    {{ range .Pages -}}
+<div class="articlegrid_item">
+  <a href="{{ .Page.Permalink }}"> <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
+  <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
+  <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h2>
+  <p class="author">{{ with .Params.author }}by {{ . }}{{ end }}</p>
+  {{ $currentPage := . }}
+  <p>{{ with .Params.description }}{{ . }} <a href="{{ $currentPage.RelPermalink }}">Read more &rarr;</a>{{ end }}</p>
+  
+</div>
 
 {{ end -}}
+</div>
 
-{{ partial "pagination.html" . }}
+<!-- {{ partial "pagination.html" . }} -->
 </main>
 {{ end -}}

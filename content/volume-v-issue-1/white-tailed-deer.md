@@ -1,13 +1,14 @@
 ---
 title: "Mammals of The Prairie: The White-tailed Deer"
 subtitle: "*Odocoileus virginianus*"
-date: 2019-07-12T15:48:00-7:00
+date: 2019-07-12T15:48:00-07:00
 draft: false
 author: "Bruce Leventhal and Ken Saunders II"
 articletype: "Multimedia"
-headerimage:
+headerimage: "mammals-of-the-prairie.jpg"
 headshot:
 authorbio:
+description: "In this issue we're publishing a variation on our \"Birds of the Prairie\" feature. This time, it's \"Mammals of the Prairie.\""
 ---
 
 The white-tailed deer is widespread in the prairie region. It's natural

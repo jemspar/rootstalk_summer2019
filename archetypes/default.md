@@ -8,4 +8,5 @@ articletype:
 headerimage:
 headshot:
 authorbio:
+description:
 ---

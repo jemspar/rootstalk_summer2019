@@ -1,13 +1,14 @@
 ---
-title: "*Building The Agricultural City:*"
+title: "*Building The Agricultural City*"
 subtitle: "*A Handbook for Rural Renewal* by Robert Wolf"
-date: 2019-07-12T15:43:00-7:00
+date: 2019-07-12T15:43:00-07:00
 draft: false
 author: "Fred Kirschenmann"
 articletype: "Book Review"
-headerimage:
+headerimage: "building-the-agricultural-city.jpg"
 headshot:
 authorbio:
+description: "This contributor, a soil scientist, environmental activist and farmer, reviews a new book offering a vision of rural prairie revival."
 ---
 
 

@@ -9,6 +9,7 @@ draft: false
 tags: ["featured"]
 authorbio: "
 Bridget Brandt grew up and went to school in Mankato, Minnesota, and is a graduate of [Mankato State University](https://mankato.mnsu.edu). She and her family have lived in [Grinnell, Iowa](https://www.grinnelliowa.gov), for the last 28 years. For 25 of those years she taught reading and American history at Grinnell Middle School, retiring in 2015. She enjoys reading, riding her bike, traveling to quiet windswept places, and spending time with her family, especially her seven grandchildren."
+description: "A \"rubber band community\" is one that, no matter how far away you go, you always want to come back. This retired teacher explains."
 ---
 
 Twenty eight years ago, on a cool August evening, our family---consisting of my husband David and me, our three kids Josiah, Katie, and Nathanael, and a hound dog---turned a huge corner in our lives and, with great anticipation, pulled off  Interstate 80 at mile marker 182 to begin our life in Grinnell, Iowa. A few weeks earlier, my husband had received a call to be the new pastor at Immanuel Lutheran Church, a small church north of the high school, with cornfields in its backyard. We knew little of Grinnell, only that it was sandwiched between Iowa City and Des Moines, it had a small, world-renowned liberal arts college located in it, and it was a half-day’s drive from Grandma’s and Grandpa’s house.

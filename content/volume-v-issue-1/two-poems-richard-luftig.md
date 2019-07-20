@@ -1,26 +1,23 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2019-07-12T15:30:00-7:00
+date: 2019-07-12T15:30:00-07:00
 draft: false
 author: "Richard Luftig"
 articletype: "Poetry"
-headerimage:
+headerimage: "two-poems-richard-luftig.jpg"
 headshot:
 authorbio:
+description: "Richard Luftig's second appearance on our pages features an imagined road trip, and the solace of endurance in winter."
 ---
 
-**[The Notion of North]{.smallcaps}**
+### The Notion of North
 
-My parents wished away their lives
-
-in their winter States over moving south
-
-to Florida or west to the California coast.
-
-But I dreamed of north, always north.
-
-I knew just where I'd go\-- North Dakota:
+My parents wished away their lives  
+in their winter States over moving south  
+to Florida or west to the California coast.  
+But I dreamed of north, always north.  
+I knew just where I'd go-- North Dakota:  
 
 First to Bowbells then across the border
 
@@ -106,7 +103,7 @@ of Canada Geese and listen as they leave faint,
 
 distant cries of their wish to make it all the way home.
 
-**[Winter Games]{.smallcaps}**
+### Winter Games
 
 Another January comes to Iowa.
 

@@ -8,7 +8,7 @@
 {{ end }}
 
 {{ define "main" -}}
-<div id="articletitle"><h1 class="{{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title }}</h1>
+<div id="articletitle"><h1 class="{{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title | markdownify }}</h1>
   {{ with .Params.subtitle }}
   <h2 class="subtitle">
     &mdash; {{ . | markdownify }}

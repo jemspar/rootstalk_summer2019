@@ -6,6 +6,7 @@ headerimage: "meskwaki_powow.jpg"
 date: 2019-05-29T21:08:24Z
 draft: false
 tags: ["featured"]
+description: "In a community writing workshop, Rootstalk's Editor discovered a small town's true diversity."
 ---
 
 Back  in  the  late  50s  and  early  60s,  there  was  a  cop show called "Naked City" on network TV. Each  episode  always  ended  with  a  narrator's  voice  in-toning the same line: "There are eight million stories in the naked city. This has been one of them."

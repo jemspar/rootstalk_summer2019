@@ -8,6 +8,7 @@ articletype: "Multimedia"
 headerimage: "mammals-of-the-prairie.jpg"
 headshot:
 authorbio:
+description: "In this issue we're publishing a variation on our \"Birds of the Prairie\" feature. This time, it's \"Mammals of the Prairie.\""
 ---
 
 The **American mink** is a semi-aquatic animal endemic throughout much of North America. A member of the *Mustelidae* family, it is related to the otter, badger, marten, weasel, ferret, and wolverine, and like them is an aggressive carnivore, hunting rodents, fish, crustaceans, frogs, and birds. Male minks measure from 13 to 18 inches in body length, and weigh one to three pounds, while females usually measure from 12 to 15 inches and weigh between one and two pounds. The mink’s long streamlined body allows it to enter the burrows of prey and helps to reduce water resistance while it’s swimming.

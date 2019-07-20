@@ -1,16 +1,16 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2019-07-12T16:01:00-7:00
+date: 2019-07-12T16:01:00-07:00
 draft: false
 author: "Rodney Nelson"
 articletype: "Poetry"
-headerimage:
+headerimage: "two-poems-rodney-nelson.jpg"
 headshot:
 authorbio:
 ---
 
-**[Maple Creek Crossing]{.smallcaps}**
+### Maple Creek Crossing
 
 in winter the horizon would take and hold the eye
 
@@ -38,7 +38,7 @@ and rode on to one more important site or other
 
 where they would rally to find a pose in history
 
-**[A June Weather]{.smallcaps}**
+### A June Weather
 
 in the darkening a straight wind out of southwest got violent on the
 prairie, nothing to hinder it
