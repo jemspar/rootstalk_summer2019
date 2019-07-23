@@ -8,6 +8,7 @@ articletype: "Essay"
 headerimage: "my-integrated-life-pt-1.jpg"
 headshot:
 authorbio:
+description: "Musician, journalist, educator with a 40-year career in the arts--our contributor has folded together multiple extraordinary lives."
 ---
 
 *Born in the Midwest at nearly the

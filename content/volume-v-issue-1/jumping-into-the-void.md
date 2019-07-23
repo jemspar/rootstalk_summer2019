@@ -18,6 +18,7 @@ Sarah is co-founder of the Oskaloosa Art Center and Studios and serves as the Di
 The couple met while at [University of Northern Iowa](http://www.uni.edu). After spending three years in the South pursuing their artistic careers, they decided to return to Matt’s hometown to raise their four boys.
 
 Upon arriving, they discovered that their new, rural community in the heart of Mahaska County had a void they felt they could fill. We talked with them on a summer afternoon about how they’ve been trying to do just that over the past two years."
+description: "What does an artist do in a prairie town that doesn't have an arts community? Matt and Sarah Kargol's answer: make one."
 ---
 
 *In July of 2018, Rootstalk Associate Editor Vincent Benlloch spoke with Matt and  Sarah  Kargol, founders of the non-profit Fine Arts and Cultural Events (FACE) of [Mahaska County, Iowa](https://www.faceofmahaska.com), housed at [Oskaloosa’s Art Center and Studios](https://www.facebook.com/oskaloosaartcenter).*

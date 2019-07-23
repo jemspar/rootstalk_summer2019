@@ -7,6 +7,7 @@ articletype: "Memoir"
 headerimage: "the-hottest-car.jpg"
 headshot: "allan-moyer.png"
 authorbio: "Allan Moyer was born in 1930 at home in [Poweshiek County](http://poweshiekcounty.org) in Iowa. He was the middle child in a family of thirteen children. He grew up in the country and moved to Grinnell in 1944. He graduated from high school in 1948 and worked at Central Market cutting meat until he joined the Navy in 1951. In 1958, he married Pat Thigh, and they raised three children. His wife Pat passed away in 1973. Three years later, he met and married Shirley Selle in 1976. For a short time, he worked at Donaldson’s in Grinnell, but he’s farmed the majority of his life before retiring in 2016."
+description: "There was a time for this retired farmer when Saturday night in his small prairie town was a hot car and someone to race."
 ---
 
 Hotrods. The pastime of cruising your pride and joy down Main Street, racing to impress the hometown crowd, is a lost art of a long gone era in Grinnell, Iowa.

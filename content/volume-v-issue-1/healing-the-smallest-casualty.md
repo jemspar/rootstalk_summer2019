@@ -7,6 +7,7 @@ articletype: "Personal essay"
 headerimage: "healing-the-smallest-casualty.jpg"
 headshot: "randall-hotchkin.jpg"
 authorbio: "[Randall Hotchkin](https://www.facebook.com/RJsBarberShoppe) served as an Air Force Medic in Balad, Iraq from August 2004 to January 2005.  He was a Technical Sergeant at the time, but retired as a Master Sergeant in 2013 with a total of 26 years of service, with over 22 of those on active duty."
+description: "It's a long way from Iraq's battlefields to running a small town barbershop. But because of a little boy's smile, maybe not so far at that."
 ---
 
 We arrived in Iraq under the cover of darkness. We were a large deployment group from Wilford Hall Medical Center, Lackland Air Force Base, San Antonio, Texas. Many of us knew each other, but to say we were well acquainted would be a stretch. After all, Wilford Hall was the largest medical facility in the Air Force. The range of relationships prior to our deployment was all over the map, much like the range of backgrounds and hometowns that make up every military unit. We’d been trained and trained well, but would that be enough? How would we perform in a high tempo mass casualty environment? It was August, 2004, and we were entering a war zone, specifically Operation Iraqi Freedom.

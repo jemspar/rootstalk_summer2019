@@ -9,6 +9,7 @@ articletype: "Podcast"
 headerimage: "podcast-header.jpg"
 headshot:
 authorbio:
+description: "In Rootstalk's fifth podcast, our audio producers talk with Prof. Brandi Janssen about the complexities of sustainaable agriculture."
 ---
 
 ## A Podcast Interview with University of Iowa Associate Professor Brandi Janssen

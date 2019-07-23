@@ -8,6 +8,7 @@ articletype: "Poetry"
 headerimage: "john-grey-two-poems.jpg"
 headshot:
 authorbio:
+description: "The poet--an Australian transplant--takes on the autumn's changeable weather and its effect on we who move through it."
 ---
 
 ### Feeling Autumnal

@@ -7,6 +7,7 @@ articletype: "Memoir"
 headerimage: "first-taste-of-freedom.jpg"
 headshot: "sam-cox.png"
 authorbio: "Sam Cox is the proprietor of the [Saints Rest Coffee House](https://www.saintsrestcoffee.com), one of the fixtures of daily life in Grinnell, Iowa. An Iowa transplant at a very young age, she was raised in Grinnell and graduated from Grinnell High School. She attended college and returned to Grinnell to raise a family. About the town, she says: “I love this community and all of its colors! It has more depth than people may see and what a great place to raise a family. So here I am.”"
+description: "A costume, a pillow case, a couple of friends, and a whole town to roam in: that was Halloween for this coffee shop owner."
 ---
 
 It was  Halloween eve---or Beggars’ Night, to all of the little kids of the time---in my small Iowa town. It was a beautiful and warm autumn day. The sun was shining, still high in the sky, leaves were on the ground and though the grass had lost some of its beautiful green luster, it seemed to us as if the summer of 1978 was still going strong. We lived in an older neighborhood. A little one-block street that continued on the other side of the tracks and was bordered by the cemetery. A mix of ranch homes and two-stories; most of them older and in various states of age. A very quiet street that you didn’t turn down unless you lived on it.

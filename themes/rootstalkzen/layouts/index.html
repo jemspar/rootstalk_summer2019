@@ -27,7 +27,10 @@
     <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
     <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h2>
     <p class="author">by {{ .Params.author }}</p>
+  {{ $currentPage := . }}
+  <p>{{ with .Params.description }}{{ . | markdownify }} <a style="display:inline-block" href="{{ $currentPage.RelPermalink }}">Read more &rarr;</a>{{ end }}</p>
   </div>
+  
   {{ end }}
 
 </div>

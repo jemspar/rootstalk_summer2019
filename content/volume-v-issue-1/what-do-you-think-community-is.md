@@ -7,6 +7,7 @@ articletype: "Photo essay"
 headerimage: "community-is.jpg"
 headshot: "kaitie-hess.png"
 authorbio: "Kaitie Hess is a fourth year student at Grinnell College studying anthropology with a concentration in global development studies. She is really interested by the concept of community, especially in regards to youth working together to make community change. Kaitie worked at the Grinnell Area Arts Council from spring 2016 to spring 2017, where this photo essay takes place."
+description: "What's the best way to find out how \"community\" is defined where you live? Ask the local kids to make a mural."
 ---
 
 [The Grinnell Area Arts Council](https://www.grinnellarts.org), located in the heart of downtown Grinnell, Iowa, is a community center that hosts exhibits, concerts, plays, celebrations, and classes. Of particular interest to me this past spring was “Studio 6,” the Arts Council’s Monday-through-Thursday after school program that attracts approximately 20 to 25 students. The kids attending Studio 6 come from different backgrounds in the town, and adult artist/mentors guide them in working with one another to create pieces of art that reflect their cohesion as a classroom.

@@ -8,6 +8,7 @@ articletype: "Poetry"
 headerimage: "two-poems-rodney-nelson.jpg"
 headshot:
 authorbio:
+description: "In this poet's work the prairie's weathers have an intimate connection to the landscape's history."
 ---
 
 ### Maple Creek Crossing

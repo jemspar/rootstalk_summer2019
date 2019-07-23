@@ -8,6 +8,7 @@ articletype: "Multimedia"
 headerimage: "mammals-of-the-prairie.jpg"
 headshot:
 authorbio:
+description: "In this issue we're publishing a variation on our \"Birds of the Prairie\" feature. This time, it's \"Mammals of the Prairie.\""
 ---
 
 The **Virginia opossum**---also known as the North American opossum---is the only marsupial north of Mexico. It’s solitary, nocturnal, about the size of a house cat and all-too-familiar to many homeowners (along with the racoon) as a highly successful raider of garbage cans. 
