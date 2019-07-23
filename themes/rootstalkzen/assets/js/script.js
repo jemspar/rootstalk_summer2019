@@ -18,7 +18,7 @@ $(document).ready(function() {
     var position = $(".blockmenu").css( "left" );
     if( position == "0px" ) {
       $( ".blockmenu" ).transition(
-        { left : "-71vw" });
+        { left : "-36vw" });
       $( ".blockmenu #label" ).html(originalLabel);
     } else {
       $( ".blockmenu" ).transition(

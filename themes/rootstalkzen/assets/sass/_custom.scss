@@ -228,11 +228,14 @@ nav.blockmenu {
   background-color: rgba($darkaccent, 0.95);
   position: fixed;
   top: 0;
-  left: -71vw;
+  left: -36vw;
   height: 100%;
-  width: 75vw;
-  padding: 2vw 2vw 2vw 2vw;
+  width: 40vw;
+  padding: 2vw 2vw 2vw 1vw;
   z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
   color: white;
   @include typeface(headings);
@@ -240,7 +243,7 @@ nav.blockmenu {
 
     .item {
       font-weight: 300;
-      font-size: 8vw;
+      font-size: 4.5vw;
       line-height: 90%;
       margin-bottom: 2vh;
       margin-top: 0px;
@@ -261,7 +264,7 @@ nav.blockmenu {
     #label {
       position: absolute;
       top: 2vh;
-      left: 71vw;
+      left: 36vw;
       width: 4vw;
       height: 100%;
       @include typeface(headings);
