@@ -131,4 +131,4 @@ thousands wheel in the sky. We can marvel at their migration journey and
 should do what we can to ensure that the waypoint they rely on will
 always be here to welcome them.
 
-{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-4.jpg" %}}
+{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-4.jpg" caption="Bank swallows at Cheyenne Bottoms." %}}

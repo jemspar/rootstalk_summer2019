@@ -6,8 +6,8 @@ draft: false
 author: "Sebastian Braun"
 articletype: "Essay"
 headerimage: "extraction-roots-energy-plains.jpg"
-headshot:
-authorbio:
+headshot: "sebastian-braun.jpg"
+authorbio: "[Sebastian Braun](https://amin.las.iastate.edu/directory/sebastian-braun) earned a Master’s degree in ethnology, history, and philosophy from the [University of Basel](https://www.unibas.ch/en.html) and an MA and PhD in anthropology from [Indiana University](https://www.indiana.edu). Prior to becoming Director of [American Indian Studies at Iowa State University](https://amin.las.iastate.edu) in 2015, he taught in the Department of [American Indian Studies at the University of North Dakota](https://arts-sciences.und.edu/academics/american-indian-studies). His research interests are at the intersections of culture, ecology, economics, and politics."
 description: "This scholar of Native American culture meditates on the meaning of roots, and the challenge to them represented by energy extraction."
 ---
 
@@ -26,6 +26,8 @@ would feel an overwhelming joy, seeing mountains in the distance. It was
 usually a short emotion, as I realized that my mind had played tricks.
 Those were not mountains, could not be mountains. They were clouds that
 had swept me away toward home, mirroring a more familiar landscape.
+
+{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-01.jpg" caption="All photos courtesy Sebastian Braun" %}}
 
 Living on the Great Plains costs a lot of energy. The sky overhead is
 endless, and the people are exposed to that sky as if on a plate.
@@ -56,8 +58,7 @@ Energy has become visualized for me in the form of long trains of black
 tank cars and coal tenders moving across the plains. When we lived in
 North Dakota, they were parked right next to the campus of the
 university where I taught, and I often wondered what would happen if the
-oil wagons exploded like they had done in Lac Megantique
-(https://en.wikipedia.org/wiki/Lac-M%C3%A9gantic\_rail\_disaster) and
+oil wagons exploded like they had done in [Lac Megantique](https://en.wikipedia.org/wiki/Lac-M%C3%A9gantic\_rail\_disaster) and
 right outside Casselton. Now that I live in Iowa, the same wagons rumble
 by our house about five times a week. Here, they are loaded with
 ethanol, not oil or coal, but the image of energy being transported to
@@ -79,8 +80,8 @@ roots of water-hungry plants, these new kinds of roots are also thirsty.
 They are thirsty for poisonous nutrients---oil and gas---that they
 extract, but they also put poisons into the Earth. Toxic materials are
 mixed into the water that is used for fracturing the rocks, and
-fracturing wells are extremely thirsty. In 2016, a well in the Bakken
-oil field (https://en.wikipedia.org/wiki/Bakken\_Formation) required 5.5
+fracturing wells are extremely thirsty. In 2016, a well in the [Bakken
+oil field](https://en.wikipedia.org/wiki/Bakken\_Formation) required 5.5
 million gallons of water, while one in the Permian basin used 11.2
 million gallons of water. In August of 2018, the Bakken had 12,571
 producing oil wells. Some of this "water", too, will flow back out. This
@@ -93,13 +94,15 @@ hopefully for ever, and it is usually injected back into the Earth. In
 the United States, about 180,000 Class II injection wells pump over 2
 billion gallons of fluids into the Earth every day, most of them in the
 southern Plains. What happens when these fluids are not injected deep
-enough or break free from their layers can be seen on the Fort Peck
-Indian Reservation (http://www.fortpecktribes.org) in Montana. Here, an
+enough or break free from their layers can be seen on the [Fort Peck
+Indian Reservation](http://www.fortpecktribes.org) in Montana. Here, an
 underground brine plume has been migrating slowly through water wells
 for the past 40 years, a legacy of injection practices in the 1970s.
 Slowly spreading toward Poplar and the Missouri River, the only solution
 for this catastrophe has been to try and pump it to the surface again,
 and then to inject it deeper.
+
+{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-02.jpg" %}}
 
 The pulse of this network has become constant beneath the soil, and in
 some places, it has become so strong that it regularly causes small
@@ -115,14 +118,11 @@ The Prairie-Plains have become the roots for the United States, where
 wheat, oil, soybeans, corn, and coal are extracted from the soil to feed
 the cities far away. Not much thought is spent on the roots. They are
 often regarded as boring and colorless and are taken for granted. Eighty
-years ago, during the Dust Bowl
-(https://www.history.com/topics/great-depression/dust-bowl), the nation
+years ago, during the [Dust Bowl](https://www.history.com/topics/great-depression/dust-bowl), the nation
 did come to realize that it had better pay attention to the roots when
 the topsoil was flying away. One of the best kept secrets of the Plains
 lies in Denbigh, North Dakota, an assembly of houses off the main road
-to Minot. Across that road stands the Denbigh Experimental Forest
-(https://www.fs.usda.gov/recarea/dpg/recarea/?recid=80604). At first, it
-might come as a surprise that the ground in the forest is mostly sand.
+to Minot. Across that road stands the [Denbigh Experimental Forest](https://www.fs.usda.gov/recarea/dpg/recarea/?recid=80604). At first, it might come as a surprise that the ground in the forest is mostly sand.
 This sand is not the leftover of a prehistoric beach or long-ago
 glacier, but the result of much more recent overgrazing and
 over-plowing. In fact, the forest was planted as a grand plan to save
@@ -139,6 +139,8 @@ soil and people in place and to compare it to the oil boom ongoing a
 hundred miles further west. There are no Denbigh forests, no designed
 areas of seeds to fan out and protect the land against this new kind of
 industrialized havoc.
+
+{{% pullquote %}}Rooted knowing is not knowledge formally learned, but sensually experienced. It is the knowledge of how the dirt smells and feels and tastes after a rainstorm. It is the ability to find one’s way through the landscape of stories.{{% /pullquote %}}
 
 The Denbigh trees were and still are an illustration of the
 possibilities to make roots. Like plants, animals and people can become
@@ -191,6 +193,8 @@ public, to allow people onto the land, not in small, enclosed parcels,
 but in continuous flows, traveled in days, experienced close at hand.
 Observed, listened to, smelled, and tasted.
 
+{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-03.jpg" %}}
+
 Ironically---or perhaps not at all---those landscapes would also provide
 us with material energy. The energy returned over energy invested ratio
 for all those wagons full of corn ethanol that roll behind my house is
@@ -232,3 +236,5 @@ Ironically, people in exile are experts on roots. What we have learned
 is that roots cannot be forced. Roots need to grow naturally. If we
 allow them to grow, over time, patiently, listening and observing and
 learning, then we will be able to harvest their true energy.
+
+{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-04.jpg" %}}

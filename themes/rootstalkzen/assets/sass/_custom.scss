@@ -185,6 +185,10 @@ h3{
       margin-bottom: .75rem;
       @include typeface(headings);
     }
+
+    em {
+      font-style: normal;
+    }
 }
 
 h3.returnlink {
@@ -196,6 +200,8 @@ h3.returnlink {
 
 .content .pullquote {
   font-size: 2rem;
+  font-weight: 300;
+  @include typeface(body);
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   margin-top: 1.5rem;
@@ -374,12 +380,17 @@ nav.blockmenu {
 figure {
   transform: translateX(-5vw);
   margin-bottom: 7%;
+  margin-top: 5%;
 }
 
 figcaption {
   font-style: italic;
   padding-right: 15%;
   padding-left: 2%;
+
+  em {
+    font-style: normal;
+  }
 }
 
 .layout__page {

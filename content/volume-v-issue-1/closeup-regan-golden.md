@@ -1,15 +1,25 @@
 ---
-title: "Closeup: Regan Golden"
+title: "Regan Golden"
 subtitle:
 date: 2019-07-12T15:38:00-07:00
 draft: false
 author:
-articletype: "Painting"
+articletype: "Closeup"
 headerimage: "regan-golden.jpg"
-headshot:
-authorbio:
+headshot: "regan-golden.jpg"
+authorbio: "[Regan Golden](https://regangolden.com/home.html) depicts ecological change in the American landscape using drawing materials and altered photographs. Golden’s images have been exhibited in solo and group shows both nationally and internationally, including Harvard University’s [Fisher Forestry Museum](https://harvardforest.fas.harvard.edu/fisher-museum), [The Cue Art Foundation](http://cueartfoundation.org) in New York City and the [Museum of Contemporary Photography](http://www.mocp.org) in Chicago.
+
+Recently, Golden has exhibited works from her series, “The Prairie Constructs,” which comprises over 140 mixed-media images which draw heavily on the Tallgrass Midwest for inspiration. Golden has exhibited  works from the series at [Soo Visual Art Center](https://www.soovac.org) in Minneapolis, Residuals at the [Architecture Library of the University of Minnesota](https://www.continuum.umn.edu/2017/07/residuals-regan-golden-maura-rockcastle) and Unearth at the [Painting Center](https://www.thepaintingcenter.org/unearth) in New York City. We have chosen a number of images from the series to feature in this issue of Rootstalk.
+
+Golden has received numerous grants and fellowships including [The Core Program Fellowship in Critical Studies](https://www.mfah.org/fellowships/core-program/core-how-apply) at the [Museum of Fine Arts Houston](https://www.mfah.org), [The Jerome Foundation Emerging Artist Fellowship](https://archive.jeromefdn.org), [The Minnesota State Arts Board Artist Initiative Grant](http://www.arts.state.mn.us/grants), and a [Long-term Ecological Research Grant in the Arts](https://lternet.edu) from [The National Science Foundation](https://www.nsf.gov).
+
+In 2016-2017, Golden was the first Artist-in-Residence at the [College of Biological Sciences Conservatory](https://cbs.umn.edu/conservatory/artist) at the University of Minnesota, a home for rare and endangered plants from around the world. Golden is currently a Lecturer in Drawing, Painting, and Critical Studies at the [University of Minnesota](https://twin-cities.umn.edu) and the [Minneapolis College of Art and Design](https://mcad.edu).
+
+Golden has written about her work in general and “The Prairie Constructs” in particular in the above artist's statement."
 description: "To depict ecological change in the American landscape, this artist brings together paints, drawing materials and altered photographs."
 ---
+
+{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-01.jpg" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
 
 For the past decade my artwork and research has focused on 'edgelands,'
 from a forest in Massachusetts bordering a subdivision to a ragged
@@ -56,3 +66,7 @@ work enables me to be open to the natural world that is around me, even
 in the city. It is this sense of wonder and awareness about the
 persistence of urban nature that I want to pass on to viewers through my
 images.
+
+{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-02.jpg" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
+
+{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-03.jpg" caption="Clockwise from top left, \"Prairie Construct #23, #5, #37 & #18,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}

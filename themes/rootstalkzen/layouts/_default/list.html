@@ -47,7 +47,7 @@
 <div class="articlegrid_item">
   <a href="{{ .Page.Permalink }}"> <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
   <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
-  <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title }} </a></h2>
+  <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title | markdownify }} </a></h2>
   <p class="author">{{ with .Params.author }}by {{ . }}{{ end }}</p>
   {{ $currentPage := . }}
   <p>{{ with .Params.description }}{{ . | markdownify }} <a style="display:inline-block" href="{{ $currentPage.RelPermalink }}">Read more &rarr;</a>{{ end }}</p>

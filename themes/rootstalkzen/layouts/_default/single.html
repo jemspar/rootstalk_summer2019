@@ -15,7 +15,7 @@
   </h2>
   {{ end }}
   <header>
-  <h2 class="byline">{{ printf "by %s" $.Params.author }}</h2>
+  <h2 class="byline">{{ with $.Params.author }}{{ printf "by %s" . }}{{ end }}</h2>
   <h3 class="articletype">{{ .Params.articletype }}</h3>
   {{ with .Params.headerimage }}
     <img width="100%" src={{ printf "/images/headers/%s" . }}>

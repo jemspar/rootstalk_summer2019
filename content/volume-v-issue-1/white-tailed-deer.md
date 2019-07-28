@@ -11,6 +11,8 @@ authorbio:
 description: "In this issue we're publishing a variation on our \"Birds of the Prairie\" feature. This time, it's \"Mammals of the Prairie.\""
 ---
 
+{{% figure src="/images/volume-v-issue-1/white-tailed-deer.jpg" caption="Photo courtesy of Bruce Leventhal, taken on November 5, 2016, at Fort Snelling State Park, (St. Paul, Minnesota) adjacent to the Upper Mississippi River Valley Wildlife and Fish refuge" %}}
+
 The white-tailed deer is widespread in the prairie region. It's natural
 range stretches from Canada south through the continental U.S., Mexico,
 and the countries of Central and South America, down to Peru and
