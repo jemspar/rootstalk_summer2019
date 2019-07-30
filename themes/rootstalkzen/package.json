@@ -1,10 +1,10 @@
 {
-  "name": "zen",
+  "name": "rootstalk-2019",
   "version": "1.0.0",
   "description": "The node.js requirements to build this project.",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulp"
+    "test": "gulp",
   },
   "repository": {
     "type": "git",
