@@ -6,7 +6,7 @@ articletype: "Memoir"
 headerimage: "a-place-to-call-home.png"
 headshot: "bridget-brandt.png"
 draft: false
-tags: ["featured"]
+tags: ["featured", "culture"]
 authorbio: "
 Bridget Brandt grew up and went to school in Mankato, Minnesota, and is a graduate of [Mankato State University](https://mankato.mnsu.edu). She and her family have lived in [Grinnell, Iowa](https://www.grinnelliowa.gov), for the last 28 years. For 25 of those years she taught reading and American history at Grinnell Middle School, retiring in 2015. She enjoys reading, riding her bike, traveling to quiet windswept places, and spending time with her family, especially her seven grandchildren."
 description: "A \"rubber band community\" is one that, no matter how far away you go, you always want to come back. This retired teacher explains."

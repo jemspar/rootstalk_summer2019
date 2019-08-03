@@ -24,4 +24,9 @@
             {{ if ($currentPage.IsMenuCurrent "main" .) }}class="active"{{ end }} 
             href="{{ .URL }}">{{ .Name }}</a></div>
     {{ end }}
+
+    <form method="get" action="/search/" style="margin-left: 5%">
+        <input id="search" name="q" type="text" />
+        <button type="submit" class="button">Search</button>
+      </form>
 </nav>

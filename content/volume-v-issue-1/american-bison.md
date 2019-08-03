@@ -9,6 +9,7 @@ headerimage: "mammals-of-the-prairie.jpg"
 headshot:
 authorbio:
 description: "In this issue we're publishing a variation on our \"Birds of the Prairie\" feature. This time, it's \"Mammals of the Prairie.\""
+tags: ["science"]
 ---
 
 This prairie icon travels under a number of names: the Bison, the

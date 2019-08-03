@@ -17,6 +17,7 @@ In 2016-2017, Golden was the first Artist-in-Residence at the [College of Biolog
 
 Golden has written about her work in general and “The Prairie Constructs” in particular in the above artist's statement."
 description: "To depict ecological change in the American landscape, this artist brings together paints, drawing materials and altered photographs."
+tags: ["arts"]
 ---
 
 {{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-01.jpg" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
