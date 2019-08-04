@@ -13,7 +13,7 @@ async function loadPostsWithFrontMatter(postsDirectoryPath) {
       );
       const {content, data} = await parse(fileContent);
       return {
-        content: content.slice(0, 3000),
+        content: content.slice(0, 300),
         ...data
       };
     })
