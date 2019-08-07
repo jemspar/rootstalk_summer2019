@@ -15,7 +15,9 @@ module.exports = function(grunt) {
             var pagesIndex = [];
             grunt.file.recurse(CONTENT_PATH_PREFIX, function(abspath, rootdir, subdir, filename) {
                 grunt.verbose.writeln("Parse file:",abspath);
-                pagesIndex.push(processFile(abspath, filename));
+                if (S(filename).endsWith(".html") || S(filename).endsWith(".md")) {
+                    pagesIndex.push(processFile(abspath, filename));
+                }
             });
 
             return pagesIndex;
@@ -26,7 +28,7 @@ module.exports = function(grunt) {
 
             if (S(filename).endsWith(".html")) {
                 pageIndex = processHTMLFile(abspath, filename);
-            } else if (S(filename).endsWith(".md")) {
+            } else {
                 pageIndex = processMDFile(abspath, filename);
             }
 
