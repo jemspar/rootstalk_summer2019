@@ -27,7 +27,7 @@ module.exports = function(grunt) {
             var pageIndex;
 
             if (S(filename).endsWith(".html")) {
-                pageIndex = processHTMLFile(abspath, filename);
+                pageIndex = processHTMLFile2(abspath, filename);
             } else {
                 pageIndex = processMDFile(abspath, filename);
             }
@@ -45,6 +45,37 @@ module.exports = function(grunt) {
                 href: href,
                 content: S(content).trim().stripTags().stripPunctuation().s
             };
+        };
+
+        var processHTMLFile2 = function(abspath, filename) {
+            var content = grunt.file.read(abspath);
+            var pageIndex;
+            // First separate the Front Matter from the content and parse it
+            content = content.split("---");
+            var frontMatter;
+            try {
+                frontMatter = yaml.parse(content[1].trim());
+            } catch (e) {
+                conzole.failed(e.message);
+            }
+
+            var href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).chompRight(".html").s;
+            // href for index.md files stops at the folder name
+            if (filename === "index.html") {
+                href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).chompRight(filename).s;
+            }
+
+            // Build Lunr index for this page
+            pageIndex = {
+                title: frontMatter.title,
+                tags: frontMatter.tags,
+                href: href,
+                type: frontMatter.articletype,
+                author: frontMatter.author,
+                content: S(content[2]).trim().stripTags().stripPunctuation().s
+            };
+
+            return pageIndex;
         };
 
         var processMDFile = function(abspath, filename) {
@@ -70,6 +101,8 @@ module.exports = function(grunt) {
                 title: frontMatter.title,
                 tags: frontMatter.tags,
                 href: href,
+                type: frontMatter.articletype,
+                author: frontMatter.author,
                 content: S(content[2]).trim().stripTags().stripPunctuation().s
             };
 

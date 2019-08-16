@@ -14,7 +14,7 @@
 
 $(document).ready(function() {
   var originalLabel = $( ".blockmenu #label" ).html();
-  $( ".blockmenu" ).click(function() {
+  $( ".blockmenu #label" ).click(function() {
     var position = $(".blockmenu")[0].style.left;
     console.log(position);
     console.log(0.6 * $(window).width());
