@@ -43,7 +43,7 @@
 
 <!-- THREE COLUMNS -->
 <div id="articlegrid_container">
-    {{ range .Pages -}}
+    {{ range .Pages.ByDate -}}
 <div class="articlegrid_item">
   <a href="{{ .Page.Permalink }}"> <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
   <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
