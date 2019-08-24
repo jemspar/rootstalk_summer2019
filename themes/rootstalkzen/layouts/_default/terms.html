@@ -1,0 +1,33 @@
+{{ define "meta" }}
+{{- partial "section_meta.html" . -}}
+{{- partial "opengraph_meta.html" . -}}
+{{ end }}
+
+{{ define "header" }}
+{{- partial "section_json_ld.html" . -}}
+{{ end }}
+
+
+
+
+{{ define "main" }}
+<div id="articletitle" style="margin-bottom: 3rem">
+    <h1 class="title">{{ .Title }}</h1>
+</div>
+
+<main class="main layout__main">
+
+    <div class="tags">
+        {{ i18n "taxo_tags" }}:
+        
+        <ul>
+            {{ range .Site.Taxonomies.tags }}
+                    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+            {{ end }}
+        </ul>
+        
+        </div>
+
+</main>
+
+{{ end }}
