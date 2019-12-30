@@ -4,7 +4,7 @@
   "description": "The node.js requirements to build this project.",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulp",
+    "test": "gulp"
   },
   "repository": {
     "type": "git",
@@ -14,8 +14,8 @@
   "license": "GPL-2.0",
   "devDependencies": {
     "gulp": "^4.0.0",
-    "gulp-eslint": "^5.0.0",
-    "gulp-load-plugins": "^1.5.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-load-plugins": "^2.0.1",
     "gulp-sass-lint": "^1.4.0"
   },
   "engines": {
