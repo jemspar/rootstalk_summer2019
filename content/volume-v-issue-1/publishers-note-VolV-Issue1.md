@@ -6,8 +6,8 @@ draft: false
 author: "Jon Andelson"
 articletype: "Publisher's note"
 headerimage: "publishers-note-vol-v-issue-1.jpg"
-headshot:
-authorbio:
+headshot: "jon-andelson.jpg"
+authorbio: "*Jon Andelson* is the publisher of Rootstalk. He is Rosenfield Professor of Social Science (Anthropology; http://www.grinnell.edu/academics/areas/anthropology) at [Grinnell College](http://www.grinnell.edu), where he also serves as director of the [Center for Prairie Studies](https://www.grinnell.edu/academics/centers/prairie-studies)."
 description: "What does \"community\" mean on the prairie? In this issue, we offer a mosaic of answers gleaned from the residents of one small town."
 ---
 

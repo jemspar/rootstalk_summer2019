@@ -5,7 +5,9 @@ articletype: "Editor's Note"
 headerimage: "editors-note-vol-iv-issue-2.jpg"
 date: 2019-05-29T21:08:24Z
 draft: false
-tags: [""]
+description: "When the spring comes around, Midwesterners hit the road."
+headshot: "mark-baechtel.jpg"
+authorbio: "*Mark Baechtel* received his B.A. in print journalism from [The American University](https://www.american.edu) in Washington, DC, and his M.F.A. in fiction-writing from the [Iowa Writers’ Workshop](https://writersworkshop.uiowa.edu), where he was selected as an Iowa Arts Fellow. He has nearly 30 years of publishing experience, and is author of [*Shaping the Story*](https://www.amazon.com/Shaping-Story-Step-Step-Writing/dp/0205337198), a textbook guide to short-story writing (Longman, 2003). He has taught at the University of Iowa, Grinnell College and various art centers, as well as working as a professional book editor. His work has appeared in numerous newspapers, magazines, journals and anthologies, nationally and internationally. He is currently polishing the stories in a collection of short fiction, titled *What Moves and What Is Still*, and is at work on a novel titled Renovation."
 ---
 
 Now that the winter winds have stopped howling across the harvested fields, and the ambient temperature has climbed reliably above that on the surface of Pluto, we who live in the Great Flyover start thinking about that most Midwestern of Springtime traditions.
