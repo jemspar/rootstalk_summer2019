@@ -42,3 +42,8 @@ currentIssue = "volume-v-issue-1"
 #   sidebar = false
   jquery = true
   newnav = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
