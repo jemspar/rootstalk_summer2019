@@ -18,5 +18,5 @@ In the third _Roots Talk!_ podcast, audio producer Noah Herbin interviews biolog
 
 **To hear an audio recording of this issue’s podcast, use the player below:**
 
-{{% audio src="/past-issues/volume-iv-issue-2/roots-talk-ep-3.mp3" %}}
+{{% audio src="/audio/roots-talk-ep-3.mp3" %}}
 
