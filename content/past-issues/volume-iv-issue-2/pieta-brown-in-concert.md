@@ -1,9 +1,21 @@
-Musically as well as figuratively, Iowa-born singer-songwriter, Pieta
-Brown (https://www.pietabrown.com) honors the long sustain—a fact which
+---
+title: "Pieta Brown in Concert"
+subtitle:
+date: 2017-12-11T20:24:31-08:00
+draft: false
+author: "Kelly Hansen Maher"
+articletype: "Music review"
+headerimage: "pieta-brown.jpg"
+headshot: "kelly-hansen-maher.jpg"
+authorbio: "[**_Kelly Hansen Maher_**](https://www.kellyhansenmaher.com/books) lives in Grinnell, Iowa, and is the author of one collection of poetry, *Tremolo* ([Tinderbox Editions](http://www.tinderboxeditions.org/on-line-store/Tremolo-p61897419), 2016). Her work has appeared in [*Briar Cliff Review*](http://www.bcreview.org), [*New Orleans Review*](http://www.neworleansreview.org), and elsewhere. Kelly teaches creative writing in prisons, and is currently working on a new book about prairie, loss, and memory."
+description: "Our reviewer covers a Spring concert by Iowa folk music royalty Pieta Brown."
+---
+
+Musically as well as figuratively, Iowa-born singer-songwriter, [Pieta
+Brown](https://www.pietabrown.com) honors the long sustain—a fact which
 was amply evidenced by her sold-out fall 2017 performance in the
-Grinnell (Iowa) Area Arts Council’s (https://www.grinnellarts.org)
-gallery space, backed by Grammy-award winning guitarist Bo Ramsey
-(https://www.boramsey.com). Her layered refrains make for a
+[Grinnell Area Arts Council’s](https://www.grinnellarts.org)
+gallery space, backed by Grammy-award winning guitarist [Bo Ramsey](https://www.boramsey.com). Her layered refrains make for a
 straightforward but lush musical atmosphere that recalls traditional
 folk and blues, while her strong yet breathy vocals run more indie and
 alt-country. It’s an infectious blend that ably supports Brown’s clear
@@ -28,20 +40,18 @@ Brown’s Iowa roots do run deep. She played the Art Center with renowned
 guitarist and producer, Bo Ramsey, her accompanist and frequent
 collaborator. In addition to his Grammy-winning guitar skills, Bo is a
 highly respected producer and songwriter, and an inductee of both the
-Iowa Rock and Roll Hall of Fame (http://www.iowarocknroll.com) and the
-Iowa Blues Hall of Fame
-(http://cibs.org/events-programs/iowa-blues-hall-of-fame). Two of
-Ramsey’s sons, Alex and Benson Ramsey, are in the band The Pines
-(http://thepinesmusic.com), which played in the first joint-offering
+[Iowa Rock and Roll Hall of Fame](http://www.iowarocknroll.com) and the
+[Iowa Blues Hall of Fame](http://cibs.org/events-programs/iowa-blues-hall-of-fame). Two of
+Ramsey’s sons, Alex and Benson Ramsey, are in the band [The Pines](http://thepinesmusic.com), which played in the first [joint-offering](https://rootstalk.grinnell.edu/index.php/article/pines-concert)
 from the Grinnell Arts Council and the Center for Prairie Studies, back
-in January of 2017
-(https://rootstalk.grinnell.edu/index.php/article/pines-concert). Ramsey
+in January of 2017. Ramsey
 is also a long-time friend and collaborator with Pieta Brown’s father,
-Greg Brown (https://gregbrownmusic.org), another colossal Iowa music
+[Greg Brown](https://gregbrownmusic.org), another colossal Iowa music
 talent. Greg Brown is known for his hybrid style of blues, folk, and
 rock, and for songs like “Iowa Waltz.” Greg Brown’s wife—Pieta’s
-stepmother—is the singer-songwriter Iris DeMent
-(https://www.irisdement.com).
+stepmother—is the singer-songwriter [Iris DeMent](https://www.irisdement.com).
+
+{{%pullquote%}}That image of driving blue highways looking for a remembered home, a lost home, stuck with me. It’s an image that matches Brown’s dreamy, memory-scape sound.{{%/pullquote%}}
 
 “I grew up in Iowa,” Brown told the crowd. She described childhood
 memories of living in a remote, rural home somewhere outside Iowa City,
@@ -56,8 +66,8 @@ of reaching a giant firework stand each time they’d cross the Missouri
 border.
 
 Pieta Brown’s childhood, she told us, was full of music. She was often
-surrounded by family members playing various instruments*—*her
-grandmother on the pump organ for one*—*in spontaneous jams. But judging
+surrounded by family members playing various instruments---her
+grandmother on the pump organ for one---in spontaneous jams. But judging
 from her remarks throughout the night, being rooted in song means more
 to Brown than having a musical pedigree or serving as a link to Iowa
 music royalty. It means a lifelong appreciation for other musicians, and
@@ -83,6 +93,8 @@ complemented Brown’s acoustic strumming with expressive notes and
 tremolos. I could see the two actively listening to one another, for one
 another, and I did in fact feel fortunate to be there.
 
+{{%figure src="/images/volume-iv-issue-2/pieta-brown-1.jpg" caption="photo courtesy of Pieta Brown" %}}
+
 “I don’t mind this old world,” Brown said, smiling. The comment
 instantly reminded me of the Lucinda Williams song “Sweet Old World”—a
 song that, incidentally, Ramsey has played with Williams. But then
@@ -91,21 +103,22 @@ pointed as she would all evening, she said: “It’s easy to mind it a
 little bit these days”—some laughter of agreement from the crowd—“but
 deep down, I don’t really mind it.”
 
-While most of Brown’s set list dug into her own solo roots*—*which go
-back eight albums to her self-titled release in 2002*—*she also played
-several songs from her March, 2017 album, *Postcards*
-(https://lnk.to/postcards). For *Postcards*, Brown had invited
+While most of Brown’s set list dug into her own solo roots---which go
+back eight albums to her self-titled release in 2002---she also played
+several songs from her March, 2017 album, [*Postcards*](https://lnk.to/postcards). For *Postcards*, Brown had invited
 long-distance collaborations with other musicians, people she admired
 and sought to work with despite being miles away. Viewing music “as a
 collaborative pleasure,” she said that each song on the album had been
 co-written across the miles through musical correspondence, or “musical
-postcards.” Postcard collaborators include Calexico
-(http://www.casadecalexico.com), Mason Jennings
-(http://masonjennings.com), The Pines, and Mark Knopfler (of Dire
-Straits fame; http://www.markknopfler.com), among others.
+postcards.” Postcard collaborators include [Calexico](http://www.casadecalexico.com), [Mason Jennings](http://masonjennings.com), The Pines, and [Mark Knopfler](http://www.markknopfler.com) (of Dire
+Straits fame), among others.
 
 In performing “Street Tracker,” the song she collaborated on with
 Knopfler for *Postcards*, Brown even sought to collaborate with the
 audience. She pulled us into participation, not in a raucous call and
 response, but into soft echo after each verse. When she prompted, “I
 don’t want to,” we sang back, “don’t want to go home.” And we didn’t.
+
+{{%figure src="/images/volume-iv-issue-2/pieta-brown-2.jpg" caption="Album cover courtesy of Lustre Records and Pieta Brown." %}}
+
+**To listen to “In the Light,” a cut from Pieta’s album Postcards, follow [this link](https://soundcloud.com/lustre-records/01-in-the-light/s-GBV60) to Red House Records’ SoundCloud account.**
