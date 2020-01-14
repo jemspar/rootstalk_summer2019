@@ -1,5 +1,5 @@
 ---
-title: "Closeup: Keith Kozloff"
+title: "Keith Kozloff"
 subtitle:
 date: 2017-12-11T00:25:58-08:00
 draft: false
