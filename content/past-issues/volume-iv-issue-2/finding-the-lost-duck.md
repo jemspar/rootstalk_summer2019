@@ -1,3 +1,16 @@
+---
+title: "Finding the Lost Duck"
+subtitle:
+date: 2017-12-13T23:58:32-08:00
+draft: false
+author: "Colin Lewis-Beck"
+articletype: "Essay"
+headerimage: "finding-the-lost-duck.jpg"
+headshot: "colin-lewis-beck.jpg"
+authorbio: "Colin Lewis-Beck has a BA from [Middlebury College](http://www.middlebury.edu), an MPP/MA from the [University of Michigan](https://www.umich.edu), and is currently a PhD candidate in statistics at [Iowa State University](https://www.iastate.edu).  He grew up in Iowa City, and is returning there this fall to start a job as a Visiting Assistant Professor at the [University of Iowa](https://uiowa.edu).  In his free time he enjoys gardening, reading Trollope, and exploring the Midwest."
+description: "Where can you find the essential Iowa? Not in a single place, as this writer found, on the road with his father and a van full of friends."
+---
+
 As Iowa City expands, it takes longer to break though the outer ring of
 strip malls, office parks, and housing developments to see a classic
 Iowa landscape—a pastiche of Grant Wood’s *Stone City.* But drive a few
@@ -36,7 +49,7 @@ diner in Ottumwa, a new goat cheese farm north of Keokuk. The only stop
 everyone agreed on was the Lost Duck Brewery.
 
 A brewery seems to be a necessary, but not sufficient, condition for
-these trips to come together. The Lost Duck (http://www.duckbrewing.com)
+these trips to come together. [The Lost Duck](http://www.duckbrewing.com)
 is in Fort Madison, a river town along the Mississippi in Southeastern
 Iowa. This is the poorest region of the state. Over the last 30 years
 manufacturing has left the state and the agricultural economy has
@@ -50,6 +63,8 @@ circuitous route that points us towards the Mississippi.
 The van feels relaxed. There is no yelling or bravado. The pace of
 conversation is similar to a Quaker meeting: no agenda, people speak
 when moved.
+
+{{%figure src="/images/volume-iv-issue-2/finding-the-lost-duck-1.jpg" caption="Photo courtesy of Jon Andelson" %}}
 
 “Does anyone remember a blonde Norwegian woman that worked at Pleasant
 Valley? She was a cashier there in the 80s. I think her name was Anna. A
@@ -101,8 +116,8 @@ despite being the young guy in the van, the group dynamic is familiar.
 The vocabulary is at a higher level, references are more erudite, but
 the topics of male conversation are timeless.
 
-A replica of the Maharishi Golden Domes (https://www.mum.edu) announces
-Fairfield (https://cityoffairfieldiowa.com). A new addition to the
+A replica of the [Maharishi Golden Domes](https://www.mum.edu) announces
+[Fairfield](https://cityoffairfieldiowa.com). A new addition to the
 school? We pull in but realize we’ve been tricked by an office park
 crafted to look like a spiritual center. Last time I was in Fairfield
 was for a tennis tournament at the Parsons College gym. The rumor was
@@ -131,6 +146,8 @@ the college was a boon for the town. More than a few times when I’ve
 told someone I’m from Iowa the first thing they ask is if I’ve been to
 Fairfield and seen people levitate.
 
+{{%figure src="/images/volume-iv-issue-2/finding-the-lost-duck-2.jpg" caption="University Housing, Maharishi University of Management. Photo courtesy of Jon Andelson" %}}
+
 We pass a new arts center, a fancy stationary store and, posted on a
 telephone poll, a sign advertising free pistol lessons on Fridays. The
 homes are grand, with large front porches, turrets, and windows with
@@ -142,7 +159,7 @@ organic garden out front. Looks like a Co-op.
 ignores Brent’s zinger, a repartee amongst old geezers.
 
 Kory links us back to Highway 1 heading towards Keosauqua to see the
-Hotel Manning (http://showcase.netins.net/web/manning). Expectations are
+[Hotel Manning](http://showcase.netins.net/web/manning). Expectations are
 high. Phil claims Mark Twain stayed at the Manning on his comedy tour. I
 picture a big old historic hotel like the Winneshiek in Decorah, but
 downtown Keosauqua is desolate. The Manning quietly appears at the edge
@@ -166,8 +183,7 @@ foot on the ground.
 
 “We should save our energy for The Dutchman then,” replies Richard.
 
-The plan is to stop in Cantril and walk around The Dutchman
-(https://www.dutchmansstore.com), a Mennonite version of Paul’s Discount
+The plan is to stop in Cantril and walk around [The Dutchman](https://www.dutchmansstore.com), a Mennonite version of Paul’s Discount
 in Iowa City—a local store selling everything from broadsides with trite
 inspirational quotes to camouflage Iowa Hawkeye baseball hats. As we
 pull into Cantril, the guys go around and list items they hope to
@@ -211,11 +227,12 @@ diner; it’s across the street from a Fort Madison replica, right
 alongside the Mississippi. A sign saying “Eat the Fort” sits atop the
 entrance to a small trailer. Windows run along the side and a menu board
 with items spelled in black tiled letters rises behind the counter.
-Inside, the Fort
-(https://www.facebook.com/pages/The-Fort-Diner/149273651875424) has all
+Inside, the [Fort](https://www.facebook.com/pages/The-Fort-Diner/149273651875424) has all
 the fixings of a classic American diner: a waitress with a deep smoker’s
 rasp, a white board listing special pies, and a short order cook
 sweating over a grill and small deep fryer.
+
+{{%pullquote%}}Both sides are lined with trees and woodland brush. Across the river, the historic Keokuk lock and dam stands out like a lighthouse.{{%/pullquote%}}
 
 The booths hold two people so I, along with Kory and Brent, sit at the
 counter.
@@ -249,6 +266,8 @@ the best view of the trip; I’ve never seen the river so close from a
 car. Both sides are lined with trees and woodland brush. Across the
 river, the historic Keokuk lock and dam stands out like a lighthouse.
 
+{{%figure src="/images/volume-iv-issue-2/finding-the-lost-duck-3.jpg" caption="\"Keokuk Power,\" photo by David Ottenstein" %}}
+
 Brent asks the group if anyone knows the correct way to say Keokuk. “I
 think they drop the kuk. More like, Keo-Kha.”
 
@@ -260,7 +279,7 @@ driving.”
 
 “Ha. If you wanted to get beat up. Keokuk guys saw you were from out of
 town, they’d tailgate your car till you left. I stuck with Pella girls.”
-Pella (http://www.pella.org) is a small prosperous Dutch town in Iowa.
+[Pella](http://www.pella.org) is a small prosperous Dutch town in Iowa.
 Every year they have a tulip festival celebrating Dutch culture. A few
 years ago, the festival set a world record for most people dancing in
 wooden shoes at the same time.
@@ -274,7 +293,7 @@ wooden shoes at the same time.
 Like many river towns, Keokuk is struggling to keep its downtown alive.
 Most of the storefronts are empty or filled with chain restaurants and
 cheap beer bars. We loop down to the railroad tracks and pull up to the
-historic Keokuk Union Depot (http://www.keokukuniondepot.org). The
+historic [Keokuk Union Depot](http://www.keokukuniondepot.org). The
 station, however, stands boarded up as part of a renovation. Brent says
 we can call a guide to come down and open it up for us, but the Depot’s
 so far from finished it’s not worth it. In the 40s, when the Zephyr
@@ -341,3 +360,5 @@ We get out of the van grabbing our goods from the Dutchman. As we walk
 towards the house Phil shouts from the van, “I think we should do
 Burlington next. It’s supposed to be one of the best spots to watch the
 solar eclipse. I’ll bring Eclipsers for everyone.”
+
+{{%figure src="/images/volume-iv-issue-2/finding-the-lost-duck-4.jpg" caption="Photo by Eva Gemrich" %}}
