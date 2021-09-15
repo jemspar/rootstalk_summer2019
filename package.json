@@ -10,7 +10,7 @@
     "lunr": "^2.3.8",
     "mixin-deep": "^2.0.1",
     "parser-front-matter": "^1.6.4",
-    "set-value": "^3.0.1"
+    "set-value": "^4.0.1"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
